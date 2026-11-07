@@ -1,0 +1,981 @@
+nombre,marca,tienda,reacondicionado,precio_normal,precio_oferta,memoria_gb,ram_gb,pantalla_pulg,camara_principal_mp,camara_frontal_mp,bateria_mah,peso_g,nfc
+Apple iPhone 17 (256 GB / Black),Apple,Reuse,1,849990.0,807490.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Apple iPhone 17 (256 GB / Black),Apple,BackOnline,1,899990.0,899990.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Apple iPhone 17 (256 GB / Black),Apple,Hites,0,999990.0,899990.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Apple iPhone 17 (256 GB / Black),Apple,ABC,0,1019990.0,899990.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Apple iPhone 17 (256 GB / Black),Apple,Lider,0,979990.0,979990.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Apple iPhone 17 (256 GB / Black),Apple,Paris,0,999990.0,979990.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Apple iPhone 17 (256 GB / Black),Apple,Ripley,0,1029990.0,999990.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Apple iPhone 17 (256 GB / Black),Apple,MacOnline,0,1049990.0,1049990.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Apple iPhone 17 (256 GB / Black),Apple,Tienda Movistar,0,1069990.0,1069990.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Apple iPhone 17 (256 GB / Black),Apple,Tienda Entel,0,1199990.0,1079990.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Apple iPhone 17 (256 GB / Black),Apple,Travel Tienda,0,1099990.0,1099990.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Apple iPhone 17 (256 GB / Black),Apple,Apple Store,0,1099990.0,1099990.0,256.0,8.0,6.3,96.0,18.0,3692.0,177.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,Lider,0,799990.0,799990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,Tienda Movistar,0,879990.0,879990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,Falabella,0,949990.0,899990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,Ripley Marketplace,0,999990.0,999990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,Falabella Marketplace,0,999990.0,999990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,ABC,0,1099990.0,999990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,Tienda Entel,0,1469990.0,999990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,Samsung Members,0,1049990.0,1049990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,Ripley,0,1099990.0,1099990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,Samsung Shop,0,1199990.0,1139990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,Mercado Libre,0,1469990.0,1424990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,Mercado Libre Samsung,0,1469990.0,1469990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 Ultra (S938 / 256 GB / 12 GB / Titanium Black) [SM-S938BZKJLTL],Samsung,PC Factory,0,2199990.0,2089990.0,256.0,12.0,6.9,310.0,12.0,5000.0,218.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Tienda Movistar,1,529990.0,529990.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Paris,0,599990.0,512991.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Travel Tienda,0,579990.0,579990.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Falabella,0,649990.0,629990.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Tienda Entel,0,1069990.0,629990.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Ripley,0,649990.0,649990.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Hites,0,699990.0,699990.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Mercado Libre Samsung,0,727239.0,727239.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Ripley Marketplace,0,749990.0,729990.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Paris Marketplace,0,779990.0,729990.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Falabella Marketplace,0,749990.0,749990.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Samsung Members,0,769990.0,769990.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Samsung Galaxy S25 (S931 / 256 GB / 12 GB / Navy) [SM-S931BDBKLTL],Samsung,Samsung Shop,0,799990.0,759990.0,256.0,12.0,6.2,72.0,12.0,4000.0,162.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,ABC,0,509992.0,509992.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,Lider,0,549990.0,549990.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,Paris,0,599990.0,549990.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,Tienda Movistar,0,599990.0,599990.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,Hites,0,599990.0,599990.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,Mercado Libre,0,599990.0,554990.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,PC Factory,0,618590.0,599990.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,Ripley,0,649990.0,599990.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,Tienda Entel,0,749990.0,599990.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,Travel Tienda,0,629990.0,629990.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,Falabella Marketplace,0,649990.0,649990.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,KDTEC,0,875540.0,856692.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,CTMAN,0,926175.0,873750.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,Wei,0,971027.0,893345.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,NotebookStore,0,927990.0,896438.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,NotebookStore,0,931990.0,900302.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Xiaomi 17T (256 GB / 12 GB / Black),Xiaomi,Tecnomas.cl,0,926990.0,903990.0,256.0,12.0,6.6,62.0,32.0,6500.0,205.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Hites,0,349990.0,279990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Mercado Libre,0,313810.0,313810.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Mercado Libre Samsung,0,313810.0,313810.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Travel Tienda,0,349990.0,349990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Lider,0,369990.0,369990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Paris,0,399990.0,379990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Tienda Movistar,0,389990.0,389990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Tienda Entel,0,549990.0,399990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Ripley Marketplace,0,429990.0,419990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Falabella Marketplace,0,429990.0,429990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Paris Marketplace,0,479990.0,429990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Samsung Members,0,439990.0,439990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,ABC,0,479990.0,449990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Samsung Galaxy A57 (A576 / 128 GB / 8 GB / Awesome Gray) [SM-A576BZAELTL],Samsung,Samsung Shop,0,499990.0,474990.0,128.0,8.0,6.7,67.0,12.0,5000.0,179.0,1
+Apple iPhone 15 (128 GB / Black),Apple,Tienda Movistar,1,459990.0,459990.0,128.0,6.0,6.1,60.0,12.0,3349.0,171.0,1
+Apple iPhone 15 (128 GB / Black),Apple,BackOnline,1,649990.0,649990.0,128.0,6.0,6.1,60.0,12.0,3349.0,171.0,1
+Apple iPhone 15 (128 GB / Black),Apple,Hites,0,759990.0,689990.0,128.0,6.0,6.1,60.0,12.0,3349.0,171.0,1
+Apple iPhone 15 (128 GB / Black),Apple,Ripley,0,729990.0,699990.0,128.0,6.0,6.1,60.0,12.0,3349.0,171.0,1
+Apple iPhone 15 (128 GB / Black),Apple,Lider,0,729990.0,699990.0,128.0,6.0,6.1,60.0,12.0,3349.0,171.0,1
+Apple iPhone 15 (128 GB / Black),Apple,Falabella,0,799990.0,769990.0,128.0,6.0,6.1,60.0,12.0,3349.0,171.0,1
+Apple iPhone 15 (128 GB / Black),Apple,Paris,0,799990.0,769990.0,128.0,6.0,6.1,60.0,12.0,3349.0,171.0,1
+Apple iPhone 15 (128 GB / Black),Apple,Travel Tienda,0,779990.0,779990.0,128.0,6.0,6.1,60.0,12.0,3349.0,171.0,1
+Apple iPhone 15 (128 GB / Black),Apple,Tienda Movistar,0,794990.0,794990.0,128.0,6.0,6.1,60.0,12.0,3349.0,171.0,1
+Apple iPhone 15 (128 GB / Black),Apple,Tienda Entel,0,1019990.0,829990.0,128.0,6.0,6.1,60.0,12.0,3349.0,171.0,1
+Apple iPhone 17 Pro (256 GB / Deep Blue),Apple,BackOnline,1,1149990.0,1149990.0,256.0,12.0,6.3,144.0,18.0,3988.0,206.0,1
+Apple iPhone 17 Pro (256 GB / Deep Blue),Apple,Reuse,1,1149990.0,1092490.0,256.0,12.0,6.3,144.0,18.0,3988.0,206.0,1
+Apple iPhone 17 Pro (256 GB / Deep Blue),Apple,Digitek,1,1229990.0,1229990.0,256.0,12.0,6.3,144.0,18.0,3988.0,206.0,1
+Apple iPhone 17 Pro (256 GB / Deep Blue),Apple,Lider,0,1269990.0,1269990.0,256.0,12.0,6.3,144.0,18.0,3988.0,206.0,1
+Apple iPhone 17 Pro (256 GB / Deep Blue),Apple,Falabella,0,1349990.0,1329990.0,256.0,12.0,6.3,144.0,18.0,3988.0,206.0,1
+Apple iPhone 17 Pro (256 GB / Deep Blue),Apple,Ripley,0,1369990.0,1329990.0,256.0,12.0,6.3,144.0,18.0,3988.0,206.0,1
+Apple iPhone 17 Pro (256 GB / Deep Blue),Apple,MacOnline,0,1349990.0,1349990.0,256.0,12.0,6.3,144.0,18.0,3988.0,206.0,1
+Apple iPhone 17 Pro (256 GB / Deep Blue),Apple,Tienda Entel,0,1459990.0,1399990.0,256.0,12.0,6.3,144.0,18.0,3988.0,206.0,1
+Apple iPhone 17 Pro (256 GB / Deep Blue),Apple,Tienda Movistar,0,1419990.0,1419990.0,256.0,12.0,6.3,144.0,18.0,3988.0,206.0,1
+Xiaomi Poco F8 Pro (512 GB / 12 GB / Black),Xiaomi,Falabella Marketplace,0,589990.0,569990.0,512.0,12.0,6.6,108.0,20.0,6210.0,199.0,1
+Xiaomi Poco F8 Pro (512 GB / 12 GB / Black),Xiaomi,Falabella Marketplace,0,589990.0,589990.0,512.0,12.0,6.6,108.0,20.0,6210.0,199.0,1
+Xiaomi Poco F8 Pro (512 GB / 12 GB / Black),Xiaomi,Xiaomi Chile,0,749990.0,749990.0,512.0,12.0,6.6,108.0,20.0,6210.0,199.0,1
+Xiaomi 15T (512 GB / 12 GB / Rose Gold),Xiaomi,Tienda Entel,1,399990.0,299990.0,512.0,12.0,6.8,113.0,32.0,5500.0,194.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,Paris,0,799990.0,739990.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,Hites,0,779990.0,779990.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,PC Factory,0,824790.0,799990.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,Ripley,0,839990.0,799990.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,Tienda Entel,0,999990.0,799990.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,Travel Tienda,0,829990.0,829990.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,Xiaomi Chile,0,849990.0,849990.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,PC Factory,0,917490.0,889990.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,Falabella,0,999990.0,999990.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,KDTEC,0,1166948.0,1141827.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,CTMAN,0,1234582.0,1164700.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,Wei,0,1294224.0,1190685.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,NotebookStore,0,1236990.0,1194932.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Xiaomi 17T Pro (512 GB / 12 GB / Black),Xiaomi,Tecnomas.cl,0,1234990.0,1204990.0,512.0,12.0,6.8,100.0,32.0,7000.0,205.0,1
+Apple iPhone 17e (256 GB / Black),Apple,Ripley,0,799990.0,769990.0,256.0,8.0,6.1,48.0,12.0,4005.0,169.0,1
+Apple iPhone 17e (256 GB / Black),Apple,Lider,0,779990.0,779990.0,256.0,8.0,6.1,48.0,12.0,4005.0,169.0,1
+Apple iPhone 17e (256 GB / Black),Apple,Paris,0,799990.0,799990.0,256.0,8.0,6.1,48.0,12.0,4005.0,169.0,1
+Apple iPhone 17e (256 GB / Black),Apple,Tienda Entel,0,949990.0,829990.0,256.0,8.0,6.1,48.0,12.0,4005.0,169.0,1
+Apple iPhone 17e (256 GB / Black),Apple,Mercado Libre,0,831037.0,831037.0,256.0,8.0,6.1,48.0,12.0,4005.0,169.0,1
+Apple iPhone 17e (256 GB / Black),Apple,Apple Store,0,849990.0,849990.0,256.0,8.0,6.1,48.0,12.0,4005.0,169.0,1
+Apple iPhone 17e (256 GB / Black),Apple,MacOnline,0,849990.0,849990.0,256.0,8.0,6.1,48.0,12.0,4005.0,169.0,1
+Apple iPhone 16e (128 GB / White) [MD1R4BE/A],Apple,ABC,0,699990.0,499990.0,128.0,8.0,6.1,48.0,12.0,3311.5,167.0,1
+Apple iPhone 16e (128 GB / White) [MD1R4BE/A],Apple,Lider,0,549990.0,549990.0,128.0,8.0,6.1,48.0,12.0,3311.5,167.0,1
+Apple iPhone 16e (128 GB / White) [MD1R4BE/A],Apple,Mercado Libre,0,659990.0,659990.0,128.0,8.0,6.1,48.0,12.0,3311.5,167.0,1
+Apple iPhone 16e (128 GB / White) [MD1R4BE/A],Apple,MacOnline,0,699990.0,699990.0,128.0,8.0,6.1,48.0,12.0,3311.5,167.0,1
+Apple iPhone 16e (128 GB / White) [MD1R4BE/A],Apple,Travel Tienda,0,729990.0,729990.0,128.0,8.0,6.1,48.0,12.0,3311.5,167.0,1
+Xiaomi Redmi 15 5G (256 GB / 8 GB / Midnight Black),Xiaomi,Tienda Movistar,0,199990.0,199990.0,256.0,8.0,6.9,50.0,8.0,7000.0,217.0,1
+Xiaomi Redmi 15 5G (256 GB / 8 GB / Midnight Black),Xiaomi,Tienda Entel,0,249990.0,199990.0,256.0,8.0,6.9,50.0,8.0,7000.0,217.0,1
+Apple iPhone 16 (128 GB / Black),Apple,Reuse,1,699990.0,664990.0,128.0,8.0,6.1,60.0,12.0,3311.5,170.0,1
+Apple iPhone 16 (128 GB / Black),Apple,Tienda Entel,1,909990.0,714990.0,128.0,8.0,6.1,60.0,12.0,3311.5,170.0,1
+Apple iPhone 16 (128 GB / Black),Apple,BackOnline,1,799990.0,799990.0,128.0,8.0,6.1,60.0,12.0,3311.5,170.0,1
+Apple iPhone 16 (128 GB / Black),Apple,Paris,0,849990.0,799990.0,128.0,8.0,6.1,60.0,12.0,3311.5,170.0,1
+Apple iPhone 16 (128 GB / Black),Apple,ABC,0,949990.0,799990.0,128.0,8.0,6.1,60.0,12.0,3311.5,170.0,1
+Apple iPhone 16 (128 GB / Black),Apple,Falabella,0,879990.0,879990.0,128.0,8.0,6.1,60.0,12.0,3311.5,170.0,1
+Apple iPhone 16 (128 GB / Black),Apple,Tienda Entel,0,1069990.0,979990.0,128.0,8.0,6.1,60.0,12.0,3311.5,170.0,1
+Apple iPhone 16 (128 GB / Black),Apple,Apple Store,0,999990.0,999990.0,128.0,8.0,6.1,60.0,12.0,3311.5,170.0,1
+Apple iPhone 16 (128 GB / Black),Apple,MacOnline,0,999990.0,999990.0,128.0,8.0,6.1,60.0,12.0,3311.5,170.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Mercado Libre Samsung,0,669990.0,669990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Mercado Libre,0,669990.0,669990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Digitek,1,679990.0,679990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Tienda Movistar,0,699990.0,699990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Paris,0,749990.0,629991.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Tienda Entel,0,1109990.0,799990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Ripley Marketplace,0,849990.0,809990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Samsung Members,0,849990.0,849990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Falabella Marketplace,0,849990.0,849990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Hites,0,869990.0,869990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Travel Tienda,0,879990.0,879990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Lider Marketplace,0,879990.0,879990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Falabella,0,949990.0,899990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Paris Marketplace,0,999990.0,899990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Lider Marketplace,0,979990.0,979990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Samsung Galaxy S26 (S942B / 256 GB / 12 GB / Black) [SM-S942BZKKLTL],Samsung,Samsung Shop,0,999990.0,949990.0,256.0,12.0,6.3,62.0,12.0,4300.0,167.0,1
+Apple iPhone 16 Pro (128 GB / Black Titanium),Apple,Tienda Movistar,1,729990.0,729990.0,128.0,8.0,6.3,108.0,12.0,3311.5,199.0,1
+Apple iPhone 16 Pro (128 GB / Black Titanium),Apple,Reuse,1,849990.0,807490.0,128.0,8.0,6.3,108.0,12.0,3311.5,199.0,1
+Apple iPhone 16 Pro (128 GB / Black Titanium),Apple,BackOnline,1,899990.0,899990.0,128.0,8.0,6.3,108.0,12.0,3311.5,199.0,1
+Xiaomi Redmi Note 17 Pro Max (256 GB / 8 GB / Black),Xiaomi,ABC,0,407992.0,407992.0,256.0,8.0,6.8,50.0,8.0,9210.0,223.0,1
+Xiaomi Redmi Note 17 Pro Max (256 GB / 8 GB / Black),Xiaomi,Hites,0,429990.0,429990.0,256.0,8.0,6.8,50.0,8.0,9210.0,223.0,1
+Xiaomi Redmi Note 17 Pro Max (256 GB / 8 GB / Black),Xiaomi,Ripley,0,459990.0,429990.0,256.0,8.0,6.8,50.0,8.0,9210.0,223.0,1
+Xiaomi Redmi Note 17 Pro Max (256 GB / 8 GB / Black),Xiaomi,Paris,0,459990.0,429990.0,256.0,8.0,6.8,50.0,8.0,9210.0,223.0,1
+Xiaomi Redmi Note 17 Pro Max (256 GB / 8 GB / Black),Xiaomi,PC Factory,0,463890.0,449990.0,256.0,8.0,6.8,50.0,8.0,9210.0,223.0,1
+Xiaomi Redmi Note 17 Pro Max (256 GB / 8 GB / Black),Xiaomi,Mercado Libre,0,459990.0,459990.0,256.0,8.0,6.8,50.0,8.0,9210.0,223.0,1
+Xiaomi Redmi Note 17 Pro Max (256 GB / 8 GB / Black),Xiaomi,Tienda Movistar,0,459990.0,459990.0,256.0,8.0,6.8,50.0,8.0,9210.0,223.0,1
+Xiaomi Redmi Note 17 Pro Max (256 GB / 8 GB / Black),Xiaomi,Tienda Entel,0,624990.0,469990.0,256.0,8.0,6.8,50.0,8.0,9210.0,223.0,1
+Xiaomi Redmi Note 17 Pro Max (256 GB / 8 GB / Black),Xiaomi,Xiaomi Chile,0,499990.0,499990.0,256.0,8.0,6.8,50.0,8.0,9210.0,223.0,1
+Xiaomi Redmi Note 17 Pro Max (256 GB / 8 GB / Black),Xiaomi,Falabella,0,599990.0,599990.0,256.0,8.0,6.8,50.0,8.0,9210.0,223.0,1
+Xiaomi Redmi Note 17 Pro Max (256 GB / 8 GB / Black),Xiaomi,CTMAN,0,694872.0,655540.0,256.0,8.0,6.8,50.0,8.0,9210.0,223.0,1
+ZTE Nubia Air (256 GB / 8 GB / Titanium Black),ZTE,Tienda Movistar,0,219990.0,219990.0,256.0,8.0,6.8,50.0,20.0,5000.0,172.0,1
+ZTE Nubia Air (256 GB / 8 GB / Titanium Black),ZTE,Falabella,0,279990.0,269990.0,256.0,8.0,6.8,50.0,20.0,5000.0,172.0,1
+ZTE Nubia Air (256 GB / 8 GB / Titanium Black),ZTE,PC Factory,0,299990.0,290990.0,256.0,8.0,6.8,50.0,20.0,5000.0,172.0,1
+ZTE Nubia Air (256 GB / 8 GB / Titanium Black),ZTE,Mercado Libre,0,399990.0,374990.0,256.0,8.0,6.8,50.0,20.0,5000.0,172.0,1
+Xiaomi Redmi Note 17 Pro (256 GB / 6 GB / Black),Xiaomi,ABC,0,322992.0,322992.0,256.0,8.0,6.8,58.0,16.0,8340.0,222.0,1
+Xiaomi Redmi Note 17 Pro (256 GB / 6 GB / Black),Xiaomi,Paris,0,359990.0,329990.0,256.0,8.0,6.8,58.0,16.0,8340.0,222.0,1
+Xiaomi Redmi Note 17 Pro (256 GB / 6 GB / Black),Xiaomi,Hites,0,349990.0,349990.0,256.0,8.0,6.8,58.0,16.0,8340.0,222.0,1
+Xiaomi Redmi Note 17 Pro (256 GB / 6 GB / Black),Xiaomi,Tienda Movistar,0,359990.0,359990.0,256.0,8.0,6.8,58.0,16.0,8340.0,222.0,1
+Xiaomi Redmi Note 17 Pro (256 GB / 6 GB / Black),Xiaomi,Ripley,0,359990.0,359990.0,256.0,8.0,6.8,58.0,16.0,8340.0,222.0,1
+Xiaomi Redmi Note 17 Pro (256 GB / 6 GB / Black),Xiaomi,Lider,0,359990.0,359990.0,256.0,8.0,6.8,58.0,16.0,8340.0,222.0,1
+Xiaomi Redmi Note 17 Pro (256 GB / 6 GB / Black),Xiaomi,PC Factory,0,381490.0,369990.0,256.0,8.0,6.8,58.0,16.0,8340.0,222.0,1
+Xiaomi Redmi Note 17 Pro (256 GB / 6 GB / Black),Xiaomi,Tienda Entel,0,504990.0,369990.0,256.0,8.0,6.8,58.0,16.0,8340.0,222.0,1
+Xiaomi Redmi Note 17 Pro (256 GB / 6 GB / Black),Xiaomi,Falabella,0,499990.0,499990.0,256.0,8.0,6.8,58.0,16.0,8340.0,222.0,1
+Samsung Galaxy A56 (A566 / 256 GB / 8 GB / Graphite) [SM-A566EZKCLTL],Samsung,Tienda Entel,0,549990.0,299990.0,256.0,8.0,6.7,67.0,12.0,5000.0,198.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Tecnomas.cl,0,819990.0,799990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,ABC,0,899990.0,799990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,KDTEC,0,919535.0,899740.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Lider,0,899990.0,899990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Paris,0,999990.0,939990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Travel Tienda,0,1049990.0,969990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Falabella Marketplace,0,999990.0,999990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Tienda Movistar,0,999990.0,999990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Motorola Shop,0,999990.0,999990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Mercado Libre,0,999990.0,999990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Tienda Entel,0,1499990.0,999990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,CTMAN,0,1266647.0,1194950.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Wei,0,1329692.0,1223316.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,NotebookStore,0,1270990.0,1227776.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Centrale,0,1312000.0,1243600.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,PC Factory,0,1298990.0,1259990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Winpy,0,1344000.0,1276800.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Mercado Libre,0,1399990.0,1354990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Todoclick,0,1485827.0,1460990.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Motorola Signature (1 TB / 16 GB / Pantone: Carbon) [PBAB0021CL],Motorola,Mercado Libre,0,1599980.0,1554980.0,1024.0,16.0,6.8,100.0,50.0,5200.0,186.0,1
+Samsung Galaxy S24 (S921 / 128 GB / 8 GB / Onyx Black),Samsung,Falabella,0,826990.0,826990.0,128.0,8.0,6.2,72.0,12.0,4000.0,167.0,1
+Apple iPhone 18 Pro Max (256 GB / Black) [MJXN4BE/A],Apple,Lider,0,1649990.0,1649990.0,256.0,12.0,6.9,144.0,18.0,5391.0,249.0,1
+Apple iPhone 18 Pro Max (256 GB / Black) [MJXN4BE/A],Apple,Paris,0,1694990.0,1659990.0,256.0,12.0,6.9,144.0,18.0,5391.0,249.0,1
+Apple iPhone 18 Pro Max (256 GB / Black) [MJXN4BE/A],Apple,Falabella,0,1699990.0,1659990.0,256.0,12.0,6.9,144.0,18.0,5391.0,249.0,1
+Apple iPhone 18 Pro Max (256 GB / Black) [MJXN4BE/A],Apple,Mercado Libre,0,1665586.0,1665586.0,256.0,12.0,6.9,144.0,18.0,5391.0,249.0,1
+Apple iPhone 18 Pro Max (256 GB / Black) [MJXN4BE/A],Apple,Ripley,0,1699990.0,1679990.0,256.0,12.0,6.9,144.0,18.0,5391.0,249.0,1
+Apple iPhone 18 Pro Max (256 GB / Black) [MJXN4BE/A],Apple,Apple Store,0,1699990.0,1699990.0,256.0,12.0,6.9,144.0,18.0,5391.0,249.0,1
+Apple iPhone 18 Pro Max (256 GB / Black) [MJXN4BE/A],Apple,MacOnline,0,1699990.0,1699990.0,256.0,12.0,6.9,144.0,18.0,5391.0,249.0,1
+Apple iPhone 18 Pro Max (256 GB / Black) [MJXN4BE/A],Apple,Travel Tienda,0,1699990.0,1699990.0,256.0,12.0,6.9,144.0,18.0,5391.0,249.0,1
+Apple iPhone 18 Pro (256 GB / Burgundy) [MJRR4BE/A],Apple,Ripley,0,1549990.0,1529990.0,256.0,12.0,6.3,144.0,18.0,4056.0,211.0,1
+Apple iPhone 18 Pro (256 GB / Burgundy) [MJRR4BE/A],Apple,Travel Tienda,0,1549990.0,1549990.0,256.0,12.0,6.3,144.0,18.0,4056.0,211.0,1
+Apple iPhone 18 Pro (256 GB / Burgundy) [MJRR4BE/A],Apple,Tienda Movistar,0,1549990.0,1549990.0,256.0,12.0,6.3,144.0,18.0,4056.0,211.0,1
+Apple iPhone 18 Pro (256 GB / Burgundy) [MJRR4BE/A],Apple,MacOnline,0,1549990.0,1549990.0,256.0,12.0,6.3,144.0,18.0,4056.0,211.0,1
+Apple iPhone 18 Pro (256 GB / Burgundy) [MJRR4BE/A],Apple,Mercado Libre,0,1549990.0,1549990.0,256.0,12.0,6.3,144.0,18.0,4056.0,211.0,1
+Apple iPhone 18 Pro (256 GB / Burgundy) [MJRR4BE/A],Apple,Apple Store,0,1549990.0,1549990.0,256.0,12.0,6.3,144.0,18.0,4056.0,211.0,1
+Apple iPhone 18 Pro (256 GB / Burgundy) [MJRR4BE/A],Apple,Mercado Libre,0,1779990.0,1779990.0,256.0,12.0,6.3,144.0,18.0,4056.0,211.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Paris,0,1299990.0,1199990.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Tienda Entel,0,1749990.0,1299990.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Tienda Movistar,0,1349990.0,1349990.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Travel Tienda,0,1349990.0,1349990.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Ripley,0,1369990.0,1369990.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Xiaomi Chile,0,1399990.0,1399990.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Falabella Marketplace,0,1399990.0,1399990.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,PC Factory,0,1443290.0,1399990.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Falabella,0,1599990.0,1599990.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,KDTEC,0,1752152.0,1714434.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,CTMAN,0,1851226.0,1746440.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Wei,0,1943256.0,1787795.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,NotebookStore,0,1857990.0,1794818.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Tecnomas.cl,0,1851990.0,1806990.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Centrale,0,1917230.0,1817280.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,CTMAN,0,1962028.0,1850970.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Xiaomi 17 Ultra (512 GB / 16 GB / Black) [72995],Xiaomi,Winpy,0,2035840.0,1934048.0,512.0,16.0,6.9,300.0,50.0,6000.0,218.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,BackOnline,1,1249990.0,1249990.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,Reuse,1,1299990.0,1234990.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,Hites,0,1429990.0,1299990.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,Lider,0,1349990.0,1349990.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,Ripley,0,1499990.0,1449990.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,MacOnline,0,1499990.0,1499990.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,Wei,0,1639727.0,1508549.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,Mercado Libre,0,1518622.0,1518622.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,Tienda Entel,0,1579990.0,1519990.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,Tecnomas.cl,0,1562990.0,1524990.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,Tienda Movistar,0,1529990.0,1529990.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Apple iPhone 17 Pro Max (256 GB / Cosmic Orange),Apple,Centrale,0,1635900.0,1550620.0,256.0,12.0,6.9,144.0,18.0,4832.0,233.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,ABC,0,1399990.0,999990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Hites,0,1049990.0,1049990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Mercado Libre Samsung,0,1064500.0,1064500.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Mercado Libre,0,1064500.0,1064500.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Falabella,0,1149990.0,1099990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Lider,0,1149990.0,1149990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Travel Tienda,0,1149990.0,1149990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Samsung Members,0,1169990.0,1169990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Ripley Marketplace,0,1299990.0,1199990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Tienda Entel,0,1549990.0,1199990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Ripley,0,1269990.0,1249990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Falabella Marketplace,0,1299990.0,1299990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Paris,0,1499990.0,1399990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Samsung Galaxy S26 Ultra (S948B / 256 GB / 12 GB / Black) [SM-S948BZKJLTL],Samsung,Samsung Shop,0,1499990.0,1424990.0,256.0,12.0,6.9,310.0,12.0,5000.0,214.0,1
+Apple iPhone 14 (128 GB / Midnight),Apple,Reuse,1,379990.0,360990.0,128.0,6.0,6.1,24.0,12.0,3311.5,172.0,1
+Apple iPhone 14 (128 GB / Midnight),Apple,Digitek,1,379990.0,379990.0,128.0,6.0,6.1,24.0,12.0,3311.5,172.0,1
+Apple iPhone 14 (128 GB / Midnight),Apple,BackOnline,1,449990.0,449990.0,128.0,6.0,6.1,24.0,12.0,3311.5,172.0,1
+Apple iPhone 14 (128 GB / Midnight),Apple,TecTec,0,499190.0,479990.0,128.0,6.0,6.1,24.0,12.0,3311.5,172.0,1
+Apple iPhone 14 (128 GB / Midnight),Apple,ABC,0,669990.0,599990.0,128.0,6.0,6.1,24.0,12.0,3311.5,172.0,1
+Samsung Galaxy S24 FE (S721 / 128 GB / 8 GB / Graphite),Samsung,Tienda Entel,0,709990.0,349990.0,128.0,8.0,6.7,70.0,10.0,4700.0,213.0,1
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,Tienda Movistar,0,119990.0,119990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,Tienda Entel,0,149990.0,119990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,ABC,0,159990.0,119990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,Falabella,0,139990.0,139990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,Hites,0,159990.0,159990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,Ripley Marketplace,0,179990.0,169990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,Lider Marketplace,0,179990.0,179990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,Falabella Marketplace,0,179990.0,179990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,Samsung Members,0,179990.0,179990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,Paris Marketplace,0,219990.0,199990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,Ripley,0,219990.0,219990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Gray) [SM-A075MZKGLTL],Samsung,Samsung Shop,0,219990.0,219990.0,128.0,4.0,6.7,52.0,8.0,5000.0,184.0,0
+Motorola Moto G35 (256 GB / 4 GB / Black),Motorola,Tienda Entel,0,199990.0,119990.0,256.0,4.0,6.7,58.0,16.0,5000.0,188.0,1
+Samsung Galaxy S24 Ultra (S928 / 256 GB / 12 GB / Titanium Violet),Samsung,Tienda Movistar,1,539990.0,539990.0,256.0,12.0,6.8,272.0,12.0,5000.0,232.0,1
+Samsung Galaxy S24 Ultra (S928 / 256 GB / 12 GB / Titanium Violet),Samsung,Reuse,1,599990.0,569990.0,256.0,12.0,6.8,272.0,12.0,5000.0,232.0,1
+Xiaomi Poco F8 Ultra (512 GB / 16 GB / Denim Blue),Xiaomi,Mercado Libre,0,849990.0,804990.0,512.0,16.0,6.9,150.0,32.0,6500.0,220.0,1
+Xiaomi Poco F8 Ultra (512 GB / 16 GB / Denim Blue),Xiaomi,Falabella Marketplace,0,999990.0,999990.0,512.0,16.0,6.9,150.0,32.0,6500.0,220.0,1
+Xiaomi Poco F8 Ultra (512 GB / 16 GB / Denim Blue),Xiaomi,Xiaomi Chile,0,999990.0,999990.0,512.0,16.0,6.9,150.0,32.0,6500.0,220.0,1
+Xiaomi 15T Pro (512 GB / 12 GB / Black),Xiaomi,Tienda Entel,0,834990.0,599990.0,512.0,12.0,6.8,112.0,32.0,5500.0,210.0,1
+Apple iPhone 15 Pro (128 GB / Natural Titanium),Apple,Reuse,1,679990.0,645990.0,128.0,8.0,6.1,72.3,12.0,3274.0,187.0,1
+Apple iPhone 15 Pro (128 GB / Natural Titanium),Apple,BackOnline,1,749990.0,749990.0,128.0,8.0,6.1,72.3,12.0,3274.0,187.0,1
+Apple iPhone 15 Pro (128 GB / Natural Titanium),Apple,Digitek,1,779990.0,779990.0,128.0,8.0,6.1,72.3,12.0,3274.0,187.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,Lider,0,499990.0,499990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,ABC,0,649990.0,499990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,Travel Tienda,0,729990.0,599990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,KDTEC,0,624039.0,610605.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,KDTEC,0,630302.0,616733.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,Ripley,0,619990.0,619990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,Hites,0,619990.0,619990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,CTMAN,0,659331.0,622010.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,CTMAN,0,665945.0,628250.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,Mercado Libre,0,629990.0,584990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,Tecnomas.cl,0,650990.0,634990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,NotebookStore,0,661990.0,639482.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,Wei,0,699052.0,643128.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,NotebookStore,0,668990.0,646244.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,Paris,0,699990.0,649990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,PC Factory,0,690690.0,669990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,Falabella,0,699990.0,669990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,Tienda Movistar,0,679990.0,679990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Honor 600 (512 GB / 8 GB / Orange) [5109CHBW-B],Honor,Tienda Entel,0,1019990.0,699990.0,512.0,8.0,6.6,212.0,50.0,7000.0,190.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Mercado Libre Samsung,0,239990.0,239990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Mercado Libre,0,239990.0,239990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Falabella,0,249990.0,239990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Hites,0,249990.0,239990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,ABC,0,249990.0,249990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Paris,0,269990.0,259990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Tienda Movistar,0,269990.0,269990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Tienda Entel,0,349990.0,269990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Ripley,0,279990.0,279990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,ABC,0,279990.0,279990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Ripley Marketplace,0,289990.0,279990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Paris Marketplace,0,299990.0,279990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Falabella Marketplace,0,289990.0,289990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Samsung Shop,0,299990.0,284990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Samsung Members,0,299990.0,299990.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Samsung Galaxy A27 (A276 / 128 GB / 6 GB / Black) [SM-A276BZKKLTL],Samsung,Samsung Members,0,389980.0,389980.0,128.0,6.0,6.7,57.0,12.0,5000.0,200.0,1
+Xiaomi Poco M8 Pro (256 GB / 8 GB / Black),Xiaomi,Xiaomi Chile,0,399990.0,399990.0,256.0,8.0,6.8,58.0,32.0,6500.0,206.0,1
+Xiaomi Poco M8 Pro (256 GB / 8 GB / Black),Xiaomi,Falabella Marketplace,0,399990.0,399990.0,256.0,8.0,6.8,58.0,32.0,6500.0,206.0,1
+Xiaomi Poco F9 Ultra (512 GB / 16 GB / Black),Xiaomi,Xiaomi Chile,0,1099990.0,1099990.0,512.0,16.0,6.9,300.0,32.0,8050.0,235.0,1
+Xiaomi Poco F9 Ultra (512 GB / 16 GB / Black),Xiaomi,Falabella Marketplace,0,1099990.0,1099990.0,512.0,16.0,6.9,300.0,32.0,8050.0,235.0,1
+Xiaomi Poco F9 Ultra (512 GB / 16 GB / Black),Xiaomi,Mercado Libre,0,1299990.0,1254990.0,512.0,16.0,6.9,300.0,32.0,8050.0,235.0,1
+Samsung Galaxy A17 5G (A176 / 128 GB / 4 GB / Black) [SM-A176BZKOLTL],Samsung,Tienda Movistar,0,189990.0,189990.0,128.0,4.0,6.7,57.0,13.0,5000.0,192.0,0
+Samsung Galaxy A17 5G (A176 / 128 GB / 4 GB / Black) [SM-A176BZKOLTL],Samsung,Lider,0,199990.0,199990.0,128.0,4.0,6.7,57.0,13.0,5000.0,192.0,0
+Samsung Galaxy A17 5G (A176 / 128 GB / 4 GB / Black) [SM-A176BZKOLTL],Samsung,Paris,0,219990.0,199990.0,128.0,4.0,6.7,57.0,13.0,5000.0,192.0,0
+Samsung Galaxy A17 5G (A176 / 128 GB / 4 GB / Black) [SM-A176BZKOLTL],Samsung,Tienda Entel,0,269990.0,199990.0,128.0,4.0,6.7,57.0,13.0,5000.0,192.0,0
+Samsung Galaxy A17 5G (A176 / 128 GB / 4 GB / Black) [SM-A176BZKOLTL],Samsung,Ripley,0,229990.0,229990.0,128.0,4.0,6.7,57.0,13.0,5000.0,192.0,0
+Samsung Galaxy A17 5G (A176 / 128 GB / 4 GB / Black) [SM-A176BZKOLTL],Samsung,Hites,0,239990.0,239990.0,128.0,4.0,6.7,57.0,13.0,5000.0,192.0,0
+Samsung Galaxy A17 5G (A176 / 128 GB / 4 GB / Black) [SM-A176BZKOLTL],Samsung,ABC,0,239990.0,239990.0,128.0,4.0,6.7,57.0,13.0,5000.0,192.0,0
+Samsung Galaxy A17 5G (A176 / 128 GB / 4 GB / Black) [SM-A176BZKOLTL],Samsung,Samsung Shop,0,249990.0,249990.0,128.0,4.0,6.7,57.0,13.0,5000.0,192.0,0
+Xiaomi Redmi Note 15 Pro 5G (256 GB / 8 GB / Glacier Blue) [71408],Xiaomi,Hites,0,349990.0,349990.0,256.0,8.0,6.8,208.0,20.0,6580.0,210.0,1
+Xiaomi Redmi Note 15 Pro 5G (256 GB / 8 GB / Glacier Blue) [71408],Xiaomi,Falabella Marketplace,0,369990.0,369990.0,256.0,8.0,6.8,208.0,20.0,6580.0,210.0,1
+Xiaomi Redmi Note 15 Pro 5G (256 GB / 8 GB / Glacier Blue) [71408],Xiaomi,Xiaomi Chile,0,369990.0,369990.0,256.0,8.0,6.8,208.0,20.0,6580.0,210.0,1
+Xiaomi Redmi Note 15 Pro 5G (256 GB / 8 GB / Glacier Blue) [71408],Xiaomi,Travel Tienda,0,369990.0,369990.0,256.0,8.0,6.8,208.0,20.0,6580.0,210.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,KDTEC,0,510735.0,499740.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Hites,0,499990.0,499990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Digitek,1,499990.0,499990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Lider,0,499990.0,499990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,ABC,0,499990.0,499990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Tecnomas.cl,0,512990.0,499990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Tienda Entel,0,839990.0,499990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Mercado Libre,0,525335.0,525335.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Paris,0,549990.0,529990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Falabella,0,549990.0,529990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Travel Tienda,0,579990.0,529990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Motorola Shop,0,549990.0,549990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,CTMAN,0,583244.0,550230.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Wei,0,612160.0,563187.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,NotebookStore,0,585990.0,566066.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Centrale,0,610940.0,579080.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,PC Factory,0,597890.0,579990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Winpy,0,631040.0,599488.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Todoclick,0,684431.0,672990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Motorola Edge 70 (512 GB / 12 GB / Gadget Gray) [PBA60016CL],Motorola,Mercado Libre,0,799990.0,754990.0,512.0,12.0,6.7,100.0,50.0,4800.0,159.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,ABC,0,764992.0,764992.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Lider,0,899990.0,899990.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Ripley,0,949990.0,899990.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,PC Factory,0,1020590.0,989990.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Mercado Libre,0,997664.0,997664.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Tienda Movistar,0,999990.0,999990.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Tienda Entel,0,1199990.0,999990.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Xiaomi Chile,0,1049990.0,1049990.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Falabella Marketplace,0,1049990.0,1049990.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Travel Tienda,0,1049990.0,1049990.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Falabella,0,1199990.0,1199990.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,KDTEC,0,1345668.0,1316700.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,CTMAN,0,1421757.0,1341280.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Wei,0,1492439.0,1373043.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,NotebookStore,0,1426990.0,1378472.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Tecnomas.cl,0,1421990.0,1387990.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Xiaomi 17 (512 GB / 12 GB / Black) [72956],Xiaomi,Winpy,0,1563520.0,1485344.0,512.0,12.0,6.3,150.0,32.0,6330.0,191.0,1
+Motorola Moto G86 Power (256 GB / 8 GB / Pantone Spellbound),Motorola,Hites,0,279990.0,229990.0,256.0,8.0,6.7,58.0,32.0,6720.0,198.0,1
+Motorola Moto G86 Power (256 GB / 8 GB / Pantone Spellbound),Motorola,Tienda Entel,0,349990.0,229990.0,256.0,8.0,6.7,58.0,32.0,6720.0,198.0,1
+Samsung Galaxy S25 FE (S731 / 256 GB / 8 GB / Navy) [SM-S731BDBKLTL],Samsung,Tienda Movistar,0,529990.0,529990.0,256.0,8.0,6.7,70.0,12.0,4900.0,190.0,1
+Samsung Galaxy S25 FE (S731 / 256 GB / 8 GB / Navy) [SM-S731BDBKLTL],Samsung,Lider Marketplace,0,619990.0,619990.0,256.0,8.0,6.7,70.0,12.0,4900.0,190.0,1
+Samsung Galaxy S25 FE (S731 / 256 GB / 8 GB / Navy) [SM-S731BDBKLTL],Samsung,Ripley Marketplace,0,619990.0,619990.0,256.0,8.0,6.7,70.0,12.0,4900.0,190.0,1
+Samsung Galaxy S25 FE (S731 / 256 GB / 8 GB / Navy) [SM-S731BDBKLTL],Samsung,Paris Marketplace,0,619990.0,619990.0,256.0,8.0,6.7,70.0,12.0,4900.0,190.0,1
+Samsung Galaxy S25 FE (S731 / 256 GB / 8 GB / Navy) [SM-S731BDBKLTL],Samsung,Travel Tienda,0,649990.0,649990.0,256.0,8.0,6.7,70.0,12.0,4900.0,190.0,1
+Samsung Galaxy S25 FE (S731 / 256 GB / 8 GB / Navy) [SM-S731BDBKLTL],Samsung,Paris,0,679990.0,584991.0,256.0,8.0,6.7,70.0,12.0,4900.0,190.0,1
+Apple iPhone 16 Pro Max (256 GB / Black Titanium),Apple,Tienda Movistar,1,829990.0,829990.0,256.0,8.0,6.9,108.0,12.0,3311.5,227.0,1
+Apple iPhone 16 Pro Max (256 GB / Black Titanium),Apple,BackOnline,1,1099990.0,1099990.0,256.0,8.0,6.9,108.0,12.0,3311.5,227.0,1
+Xiaomi 14T Pro (512 GB / 12 GB / Titanium Black),Xiaomi,Tienda Movistar,1,419990.0,419990.0,512.0,12.0,6.7,112.0,32.0,5000.0,209.0,1
+Apple iPhone 13 (128 GB / Starlight) [MLPG3LZ/A],Apple,Tienda Movistar,1,299990.0,299990.0,128.0,4.0,6.1,24.0,12.0,3240.0,174.0,1
+Apple iPhone 13 (128 GB / Starlight) [MLPG3LZ/A],Apple,Reuse,1,319990.0,303990.0,128.0,4.0,6.1,24.0,12.0,3240.0,174.0,1
+Apple iPhone 13 (128 GB / Starlight) [MLPG3LZ/A],Apple,Digitek,1,359990.0,359990.0,128.0,4.0,6.1,24.0,12.0,3240.0,174.0,1
+Samsung Galaxy S26 FE (SM-S741B / 256 GB / 8 GB / Graphite) [SM-S741BZKKLTL],Samsung,Hites,0,549990.0,549990.0,256.0,8.0,6.7,70.0,12.0,4900.0,193.0,1
+Samsung Galaxy S26 FE (SM-S741B / 256 GB / 8 GB / Graphite) [SM-S741BZKKLTL],Samsung,Tienda Entel,0,839990.0,649990.0,256.0,8.0,6.7,70.0,12.0,4900.0,193.0,1
+Samsung Galaxy S26 FE (SM-S741B / 256 GB / 8 GB / Graphite) [SM-S741BZKKLTL],Samsung,Paris,0,729990.0,629991.0,256.0,8.0,6.7,70.0,12.0,4900.0,193.0,1
+Samsung Galaxy S26 FE (SM-S741B / 256 GB / 8 GB / Graphite) [SM-S741BZKKLTL],Samsung,Falabella,0,749990.0,739990.0,256.0,8.0,6.7,70.0,12.0,4900.0,193.0,1
+Samsung Galaxy S26 FE (SM-S741B / 256 GB / 8 GB / Graphite) [SM-S741BZKKLTL],Samsung,Travel Tienda,0,749990.0,749990.0,256.0,8.0,6.7,70.0,12.0,4900.0,193.0,1
+Samsung Galaxy S26 FE (SM-S741B / 256 GB / 8 GB / Graphite) [SM-S741BZKKLTL],Samsung,Ripley,0,899990.0,849990.0,256.0,8.0,6.7,70.0,12.0,4900.0,193.0,1
+Samsung Galaxy S26 FE (SM-S741B / 256 GB / 8 GB / Graphite) [SM-S741BZKKLTL],Samsung,ABC,0,899990.0,849990.0,256.0,8.0,6.7,70.0,12.0,4900.0,193.0,1
+Nothing Phone (3a) Pro (256 GB / 12 GB / Black),Nothing,Paris,0,449990.0,419990.0,256.0,12.0,6.8,108.0,50.0,5000.0,211.0,1
+Nothing Phone (3a) Pro (256 GB / 12 GB / Black),Nothing,Mercado Libre,0,599990.0,554990.0,256.0,12.0,6.8,108.0,50.0,5000.0,211.0,1
+Xiaomi Redmi Note 15 5G (256 GB / 8 GB / Black),Xiaomi,Paris,0,269990.0,249990.0,256.0,8.0,6.8,116.0,20.0,5520.0,178.0,1
+Xiaomi Redmi Note 15 5G (256 GB / 8 GB / Black),Xiaomi,Falabella Marketplace,0,269990.0,269990.0,256.0,8.0,6.8,116.0,20.0,5520.0,178.0,1
+Xiaomi Redmi Note 15 5G (256 GB / 8 GB / Black),Xiaomi,Tienda Entel,0,319990.0,269990.0,256.0,8.0,6.8,116.0,20.0,5520.0,178.0,1
+Xiaomi Redmi Note 15 5G (256 GB / 8 GB / Black),Xiaomi,Falabella,0,349990.0,349990.0,256.0,8.0,6.8,116.0,20.0,5520.0,178.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,ABC,0,349990.0,349990.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,Hites,0,349990.0,349990.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,Tecnomas.cl,0,383990.0,373990.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,Falabella,0,409990.0,389990.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,Ripley,0,429990.0,389990.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,Paris,0,419990.0,399990.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,CTMAN,0,424710.0,400670.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,Tienda Entel,0,519990.0,409990.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,Wei,0,445819.0,410154.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,NotebookStore,0,426990.0,412472.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,Centrale,0,445030.0,421830.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,Travel Tienda,0,429990.0,429990.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Honor Magic8 Lite (256 GB / 8 GB / Midnight Black),Honor,Winpy,0,467200.0,443840.0,256.0,8.0,6.8,113.0,16.0,7500.0,189.0,1
+Xiaomi Poco X8 Pro Max (512 GB / 12 GB / Black),Xiaomi,Xiaomi Chile,0,799990.0,799990.0,512.0,12.0,6.8,58.0,20.0,8500.0,218.0,1
+ZTE Blade A76 5G (128 GB / 4 GB / Black),ZTE,PC Factory,0,113390.0,109990.0,128.0,4.0,6.8,50.3,8.0,5000.0,191.0,0
+ZTE Blade A76 5G (128 GB / 4 GB / Black),ZTE,Eylstore,0,131240.0,124990.0,128.0,4.0,6.8,50.3,8.0,5000.0,191.0,0
+Motorola Moto G06 (256 GB / 4 GB / Tapestry) [PB970030CL],Motorola,Tienda Movistar,0,104990.0,104990.0,256.0,4.0,6.9,50.0,8.0,5200.0,194.0,0
+Motorola Moto G06 (256 GB / 4 GB / Tapestry) [PB970030CL],Motorola,PC Factory,0,133990.0,129990.0,256.0,4.0,6.9,50.0,8.0,5200.0,194.0,0
+Motorola Moto G06 (256 GB / 4 GB / Tapestry) [PB970030CL],Motorola,Mercado Libre,0,139990.0,139990.0,256.0,4.0,6.9,50.0,8.0,5200.0,194.0,0
+Xiaomi Poco M8 (512 GB / 8 GB / Black),Xiaomi,Xiaomi Chile,0,299990.0,299990.0,512.0,8.0,6.8,50.0,20.0,5520.0,178.0,1
+Xiaomi Redmi Note 15 Pro+ 5G (512 GB / 12 GB / Black),Xiaomi,Travel Tienda,0,399990.0,399990.0,512.0,12.0,6.8,208.0,32.0,6500.0,207.0,1
+Xiaomi Redmi Note 15 Pro+ 5G (512 GB / 12 GB / Black),Xiaomi,Tienda Entel,0,569990.0,399990.0,512.0,12.0,6.8,208.0,32.0,6500.0,207.0,1
+Honor 400 (512 GB / 12 GB / Midnight Black),Honor,Paris,0,399990.0,369990.0,512.0,12.0,6.6,212.0,50.0,6000.0,184.0,1
+Honor 400 (512 GB / 12 GB / Midnight Black),Honor,Ripley,0,399990.0,389990.0,512.0,12.0,6.6,212.0,50.0,6000.0,184.0,1
+Honor 400 (512 GB / 12 GB / Midnight Black),Honor,Vantek,0,399990.0,399990.0,512.0,12.0,6.6,212.0,50.0,6000.0,184.0,1
+Honor 400 (512 GB / 12 GB / Midnight Black),Honor,Tienda Entel,0,579990.0,429990.0,512.0,12.0,6.6,212.0,50.0,6000.0,184.0,1
+Motorola Razr 70 (512 GB / 12 GB / Hematite) [PBB60018CL],Motorola,Lider,0,629990.0,629990.0,512.0,12.0,6.9,100.0,32.0,4800.0,188.0,1
+Motorola Razr 70 (512 GB / 12 GB / Hematite) [PBB60018CL],Motorola,Ripley,0,639990.0,639990.0,512.0,12.0,6.9,100.0,32.0,4800.0,188.0,1
+Motorola Razr 70 (512 GB / 12 GB / Hematite) [PBB60018CL],Motorola,NotebookStore,0,662990.0,640448.0,512.0,12.0,6.9,100.0,32.0,4800.0,188.0,1
+Motorola Razr 70 (512 GB / 12 GB / Hematite) [PBB60018CL],Motorola,ABC,0,729990.0,649990.0,512.0,12.0,6.9,100.0,32.0,4800.0,188.0,1
+Motorola Razr 70 (512 GB / 12 GB / Hematite) [PBB60018CL],Motorola,Paris,0,799990.0,759990.0,512.0,12.0,6.9,100.0,32.0,4800.0,188.0,1
+Motorola Razr 70 (512 GB / 12 GB / Hematite) [PBB60018CL],Motorola,Tecnomas.cl,0,783990.0,764990.0,512.0,12.0,6.9,100.0,32.0,4800.0,188.0,1
+Motorola Razr 70 (512 GB / 12 GB / Hematite) [PBB60018CL],Motorola,Tienda Movistar,0,799990.0,799990.0,512.0,12.0,6.9,100.0,32.0,4800.0,188.0,1
+Motorola Razr 70 (512 GB / 12 GB / Hematite) [PBB60018CL],Motorola,Wei,0,1290331.0,1187105.0,512.0,12.0,6.9,100.0,32.0,4800.0,188.0,1
+Motorola Razr 70 (512 GB / 12 GB / Hematite) [PBB60018CL],Motorola,NotebookStore,0,1233990.0,1192034.0,512.0,12.0,6.9,100.0,32.0,4800.0,188.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,ABC,0,237992.0,237992.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,Lider,0,269990.0,269990.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,Paris,0,289990.0,269990.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,Xiaomi Chile,0,279990.0,279990.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,PC Factory,0,298990.0,289990.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,Tienda Entel,0,334990.0,289990.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,Ripley,0,299990.0,299990.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,Hites,0,299990.0,299990.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,Falabella Marketplace,0,309990.0,309990.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,Falabella Marketplace,0,329990.0,329990.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,Falabella,0,349990.0,349990.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,KDTEC,0,406924.0,398164.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,CTMAN,0,429342.0,405040.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,CTMAN,0,436561.0,411850.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,NotebookStore,0,431990.0,417302.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Xiaomi Redmi Note 17 (128 GB / 6 GB / Black),Xiaomi,Tecnomas.cl,0,430990.0,419990.0,128.0,6.0,7.0,50.0,16.0,7700.0,224.0,1
+Honor 400 Pro (512 GB / 12 GB / Lunar Grey),Honor,Tienda Entel,0,839990.0,599990.0,512.0,12.0,6.7,250.0,52.0,6000.0,205.0,1
+Samsung Galaxy S26+ (S947B / 256 GB / 12 GB / Black) [SM-S947BZKJLTL],Samsung,Tienda Entel,0,1349990.0,849990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy S26+ (S947B / 256 GB / 12 GB / Black) [SM-S947BZKJLTL],Samsung,Tienda Movistar,0,859990.0,859990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy S26+ (S947B / 256 GB / 12 GB / Black) [SM-S947BZKJLTL],Samsung,Mercado Libre Samsung,0,979990.0,979990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy S26+ (S947B / 256 GB / 12 GB / Black) [SM-S947BZKJLTL],Samsung,Lider Marketplace,0,979990.0,979990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy S26+ (S947B / 256 GB / 12 GB / Black) [SM-S947BZKJLTL],Samsung,Mercado Libre,0,979990.0,934990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy S26+ (S947B / 256 GB / 12 GB / Black) [SM-S947BZKJLTL],Samsung,Paris Marketplace,0,979990.0,979990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy S26+ (S947B / 256 GB / 12 GB / Black) [SM-S947BZKJLTL],Samsung,Ripley Marketplace,0,999990.0,979990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy S26+ (S947B / 256 GB / 12 GB / Black) [SM-S947BZKJLTL],Samsung,Falabella Marketplace,0,999990.0,999990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy S26+ (S947B / 256 GB / 12 GB / Black) [SM-S947BZKJLTL],Samsung,Samsung Members,0,1039990.0,1039990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy S26+ (S947B / 256 GB / 12 GB / Black) [SM-S947BZKJLTL],Samsung,Samsung Shop,0,1099990.0,1044990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy S26+ (S947B / 256 GB / 12 GB / Black) [SM-S947BZKJLTL],Samsung,Ripley,0,1199990.0,1199990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+ZTE Nubia Neo 5 (256 GB / 8 GB / Black),ZTE,PC Factory,0,257690.0,249990.0,256.0,8.0,6.8,52.0,16.0,6050.0,191.0,0
+ZTE Nubia Neo 5 (256 GB / 8 GB / Black),ZTE,Falabella,0,279990.0,269990.0,256.0,8.0,6.8,52.0,16.0,6050.0,191.0,0
+ZTE Nubia Neo 5 (256 GB / 8 GB / Black),ZTE,Eylstore,0,286640.0,272990.0,256.0,8.0,6.8,52.0,16.0,6050.0,191.0,0
+ZTE Nubia Neo 5 (256 GB / 8 GB / Black),ZTE,Tienda Movistar,0,279990.0,279990.0,256.0,8.0,6.8,52.0,16.0,6050.0,191.0,0
+ZTE Nubia Neo 5 (256 GB / 8 GB / Black),ZTE,Mercado Libre,0,300990.0,275990.0,256.0,8.0,6.8,52.0,16.0,6050.0,191.0,0
+Motorola Edge 50 (256 GB / 12 GB / Peach Fuzz),Motorola,Tecnomas.cl,0,307990.0,299990.0,256.0,12.0,6.7,10.0,63.0,5000.0,180.0,1
+Motorola Edge 50 (256 GB / 12 GB / Peach Fuzz),Motorola,Hites,0,499990.0,499990.0,256.0,12.0,6.7,10.0,63.0,5000.0,180.0,1
+Apple iPhone Duo (256 GB / Star White) [MK2D4BE/A],Apple,Apple Store,0,2499990.0,2499990.0,256.0,12.0,7.6,96.0,12.0,3311.5,254.0,1
+Apple iPhone Duo (256 GB / Star White) [MK2D4BE/A],Apple,Tienda Entel,0,2999990.0,2499990.0,256.0,12.0,7.6,96.0,12.0,3311.5,254.0,1
+ZTE Nubia Music (128 GB / 4 GB / Yellow),ZTE,PC Factory,0,92790.0,89990.0,128.0,4.0,6.6,50.0,16.0,5000.0,191.0,0
+Samsung Galaxy Z Flip7 FE (F761 / 128 GB / 8 GB / Black) [SM-F761BZKJCHO],Samsung,Falabella Marketplace,0,699990.0,699990.0,128.0,8.0,6.7,62.0,10.0,4000.0,187.0,1
+Samsung Galaxy Z Flip7 FE (F761 / 128 GB / 8 GB / Black) [SM-F761BZKJCHO],Samsung,Samsung Members,0,719990.0,719990.0,128.0,8.0,6.7,62.0,10.0,4000.0,187.0,1
+Samsung Galaxy Z Flip7 FE (F761 / 128 GB / 8 GB / Black) [SM-F761BZKJCHO],Samsung,Samsung Shop,0,799990.0,759990.0,128.0,8.0,6.7,62.0,10.0,4000.0,187.0,1
+Samsung Galaxy Z Flip7 FE (F761 / 128 GB / 8 GB / Black) [SM-F761BZKJCHO],Samsung,Mercado Libre,0,999990.0,954990.0,128.0,8.0,6.7,62.0,10.0,4000.0,187.0,1
+Samsung Galaxy Z Flip7 FE (F761 / 128 GB / 8 GB / Black) [SM-F761BZKJCHO],Samsung,Mercado Libre Samsung,0,999990.0,999990.0,128.0,8.0,6.7,62.0,10.0,4000.0,187.0,1
+Samsung Galaxy Z Flip7 FE (F761 / 128 GB / 8 GB / Black) [SM-F761BZKJCHO],Samsung,Lider Marketplace,0,999990.0,999990.0,128.0,8.0,6.7,62.0,10.0,4000.0,187.0,1
+Motorola Moto G Max (256 GB / 8 GB / Alaskan Blue) [PBBR0003CL],Motorola,Tecnomas.cl,0,243990.0,237990.0,256.0,8.0,6.8,200.0,32.0,5200.0,189.0,1
+Motorola Moto G Max (256 GB / 8 GB / Alaskan Blue) [PBBR0003CL],Motorola,Lider,0,249990.0,249990.0,256.0,8.0,6.8,200.0,32.0,5200.0,189.0,1
+Motorola Moto G Max (256 GB / 8 GB / Alaskan Blue) [PBBR0003CL],Motorola,ABC,0,329990.0,299990.0,256.0,8.0,6.8,200.0,32.0,5200.0,189.0,1
+Motorola Moto G Max (256 GB / 8 GB / Alaskan Blue) [PBBR0003CL],Motorola,Mercado Libre,0,349990.0,324990.0,256.0,8.0,6.8,200.0,32.0,5200.0,189.0,1
+Motorola Moto G Max (256 GB / 8 GB / Alaskan Blue) [PBBR0003CL],Motorola,Travel Tienda,0,369990.0,369990.0,256.0,8.0,6.8,200.0,32.0,5200.0,189.0,1
+Motorola Moto G Max (256 GB / 8 GB / Alaskan Blue) [PBBR0003CL],Motorola,NotebookStore,0,493990.0,477194.0,256.0,8.0,6.8,200.0,32.0,5200.0,189.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Lider,0,209990.0,209990.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Tecnomas.cl,0,218990.0,212990.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Tienda Movistar,0,239990.0,239990.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Hites,0,249990.0,239990.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Tienda Entel,0,319990.0,249990.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Mercado Libre,0,269990.0,269990.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,ABC,0,269990.0,269990.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Mercado Libre,0,279990.0,254990.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Ripley,0,279990.0,279990.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Falabella Marketplace,0,279990.0,279990.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Motorola Shop,0,279990.0,279990.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,KDTEC,0,289775.0,283537.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,CTMAN,0,306160.0,288830.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Wei,0,321380.0,295670.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,NotebookStore,0,307990.0,297518.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Moto G67 (256 GB / 4 GB / Nile) [PBAT0019CL],Motorola,Winpy,0,336640.0,319808.0,256.0,4.0,6.8,58.0,32.0,5200.0,182.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,KDTEC,0,357435.0,349740.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Tecnomas.cl,0,358990.0,349740.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Tienda Movistar,0,349990.0,349990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,CTMAN,0,382914.0,361240.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Wei,0,401951.0,369795.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,NotebookStore,0,384990.0,371900.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,PC Factory,0,391790.0,379990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Centrale,0,401300.0,380370.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Hites,0,399990.0,399990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Lider,0,399990.0,399990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,ABC,0,419990.0,399990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Falabella,0,449990.0,429990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Paris,0,449990.0,429990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Mercado Libre,0,439356.0,439356.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Todoclick,0,449504.0,441990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Travel Tienda,0,449990.0,449990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Falabella Marketplace,0,449990.0,449990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Motorola Shop,0,449990.0,449990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Ripley,0,449990.0,449990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Motorola Edge 70 Fusion (256 GB / 8 GB / Silhouette) [PBBB0041CL],Motorola,Mercado Libre,0,499990.0,474990.0,256.0,8.0,6.7,63.0,32.0,5200.0,193.0,1
+Apple iPhone 13 Pro Max (128 GB / Gold),Apple,Digitek,1,449990.0,449990.0,128.0,6.0,6.7,36.3,12.0,4352.0,240.0,1
+Apple iPhone 13 Pro Max (128 GB / Gold),Apple,BackOnline,1,499990.0,499990.0,128.0,6.0,6.7,36.3,12.0,4352.0,240.0,1
+Apple iPhone 13 Pro Max (128 GB / Gold),Apple,Reuse,1,519990.0,493990.0,128.0,6.0,6.7,36.3,12.0,4352.0,240.0,1
+Apple iPhone 13 Pro Max (128 GB / Gold),Apple,Digitek,1,559990.0,559990.0,128.0,6.0,6.7,36.3,12.0,4352.0,240.0,1
+Huawei Pura 80 Ultra (512 GB / 16 GB / Golden Black),Huawei,Reuse,1,944990.0,897740.0,512.0,16.0,6.8,152.5,13.0,5170.0,234.0,1
+Huawei Pura 80 Ultra (512 GB / 16 GB / Golden Black),Huawei,Falabella,0,1399990.0,1349990.0,512.0,16.0,6.8,152.5,13.0,5170.0,234.0,1
+Huawei Pura 80 Ultra (512 GB / 16 GB / Golden Black),Huawei,Huawei Shop,0,1399990.0,1399990.0,512.0,16.0,6.8,152.5,13.0,5170.0,234.0,1
+Infinix Note 50X (256 GB / 8 GB / Enchanted Purple),Infinix,Ripley,1,199990.0,199990.0,256.0,8.0,6.7,50.0,8.0,5500.0,194.0,0
+Infinix Note 50X (256 GB / 8 GB / Enchanted Purple),Infinix,ABC,0,199990.0,199990.0,256.0,8.0,6.7,50.0,8.0,5500.0,194.0,0
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,Hites,0,389990.0,389990.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,ABC,0,399990.0,399990.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,Paris,0,429990.0,399990.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,Ripley,0,419990.0,419990.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,Mercado Libre,0,429990.0,404990.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,Falabella,0,449990.0,429990.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,Travel Tienda,0,469990.0,429990.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,CTMAN,0,470608.0,443970.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,Tecnomas.cl,0,459990.0,448990.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,Tienda Entel,0,549990.0,449990.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,KDTEC,0,463056.0,453088.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,Wei,0,493995.0,454475.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Honor 600 Elite (256 GB / 8 GB / Desert Gold),Honor,NotebookStore,0,472990.0,456908.0,256.0,8.0,6.9,108.0,5.0,8100.0,218.0,1
+Motorola Moto G17 (128 GB / 4 GB / Evening Blue) [PBBJ0058CL],Motorola,Hites,0,169990.0,169990.0,128.0,4.0,6.7,55.0,32.0,5200.0,190.0,0
+Motorola Moto G17 (128 GB / 4 GB / Evening Blue) [PBBJ0058CL],Motorola,Tecnomas.cl,0,174990.0,169990.0,128.0,4.0,6.7,55.0,32.0,5200.0,190.0,0
+Motorola Moto G17 (128 GB / 4 GB / Evening Blue) [PBBJ0058CL],Motorola,PC Factory,0,175290.0,169990.0,128.0,4.0,6.7,55.0,32.0,5200.0,190.0,0
+Motorola Moto G17 (128 GB / 4 GB / Evening Blue) [PBBJ0058CL],Motorola,Paris,0,179990.0,169990.0,128.0,4.0,6.7,55.0,32.0,5200.0,190.0,0
+Motorola Moto G17 (128 GB / 4 GB / Evening Blue) [PBBJ0058CL],Motorola,Ripley,0,179990.0,179990.0,128.0,4.0,6.7,55.0,32.0,5200.0,190.0,0
+Motorola Moto G17 (128 GB / 4 GB / Evening Blue) [PBBJ0058CL],Motorola,ABC,0,179990.0,179990.0,128.0,4.0,6.7,55.0,32.0,5200.0,190.0,0
+Motorola Moto G17 (128 GB / 4 GB / Evening Blue) [PBBJ0058CL],Motorola,Travel Tienda,0,189990.0,189990.0,128.0,4.0,6.7,55.0,32.0,5200.0,190.0,0
+Motorola Moto G17 (128 GB / 4 GB / Evening Blue) [PBBJ0058CL],Motorola,NotebookStore,0,248990.0,240524.0,128.0,4.0,6.7,55.0,32.0,5200.0,190.0,0
+Motorola Moto G17 (128 GB / 4 GB / Evening Blue) [PBBJ0058CL],Motorola,Wei,0,263077.0,242031.0,128.0,4.0,6.7,55.0,32.0,5200.0,190.0,0
+Apple iPhone 13 Mini (128 GB / Midnight),Apple,Digitek,1,289990.0,289990.0,128.0,4.0,5.4,24.0,12.0,2438.0,141.0,1
+Vivo Y04 (128 GB / 4 GB / Dark Green),Vivo,Tienda Movistar,0,99990.0,99990.0,128.0,4.0,6.7,13.0,5.0,5500.0,199.0,0
+Vivo Y04 (128 GB / 4 GB / Dark Green),Vivo,Hites,0,129990.0,129990.0,128.0,4.0,6.7,13.0,5.0,5500.0,199.0,0
+Vivo Y04 (128 GB / 4 GB / Dark Green),Vivo,Ripley,0,129990.0,129990.0,128.0,4.0,6.7,13.0,5.0,5500.0,199.0,0
+Xiaomi 13T (256 GB / 12 GB / Black) [48552],Xiaomi,Reuse,1,284990.0,270740.0,256.0,12.0,6.7,112.0,20.0,5000.0,205.0,1
+Xiaomi 13T (256 GB / 12 GB / Black) [48552],Xiaomi,Digitek,0,349990.0,349990.0,256.0,12.0,6.7,112.0,20.0,5000.0,205.0,1
+Motorola Moto G15 For Business (128 GB / 4 GB / Gravity Grey) [PB6D0092CL],Motorola,Globalbox,0,124990.0,119290.0,128.0,4.0,6.7,55.0,8.0,5200.0,190.0,1
+Motorola Moto G15 For Business (128 GB / 4 GB / Gravity Grey) [PB6D0092CL],Motorola,NotebookStore,0,216990.0,209612.0,128.0,4.0,6.7,55.0,8.0,5200.0,190.0,1
+Motorola Moto G15 For Business (128 GB / 4 GB / Gravity Grey) [PB6D0092CL],Motorola,Tecnomas.cl,0,216990.0,210990.0,128.0,4.0,6.7,55.0,8.0,5200.0,190.0,1
+Motorola Moto G15 For Business (128 GB / 4 GB / Gravity Grey) [PB6D0092CL],Motorola,Centrale,0,226290.0,214490.0,128.0,4.0,6.7,55.0,8.0,5200.0,190.0,1
+Motorola Moto G15 For Business (128 GB / 4 GB / Gravity Grey) [PB6D0092CL],Motorola,PC Factory,0,226790.0,219990.0,128.0,4.0,6.7,55.0,8.0,5200.0,190.0,1
+Motorola Moto G15 For Business (128 GB / 4 GB / Gravity Grey) [PB6D0092CL],Motorola,CTMAN,0,235055.0,221750.0,128.0,4.0,6.7,55.0,8.0,5200.0,190.0,1
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,Tienda Movistar,0,109990.0,109990.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,Tienda Entel,0,149990.0,119990.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,ABC,0,127492.0,127492.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,Hites,0,134990.0,134990.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,Hites,0,139990.0,139990.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,PC Factory,0,144290.0,139990.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,Paris,0,149990.0,139990.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,Ripley,0,149990.0,149990.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,KDTEC,0,217335.0,212656.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,CTMAN,0,232829.0,219650.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,NotebookStore,0,230990.0,223136.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,Wei,0,243569.0,224084.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi A7 Pro (128 GB / 4 GB / Black) [78524],Xiaomi,Tecnomas.cl,0,233990.0,227990.0,128.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Paris,0,179990.0,169990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Hites,0,179990.0,179990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Falabella,0,189990.0,179990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Mercado Libre Samsung,0,182725.0,182725.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Mercado Libre,0,189990.0,189990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Falabella Marketplace,0,194990.0,194990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Lider Marketplace,0,194990.0,194990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Samsung Members,0,199990.0,199990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,ABC,0,199990.0,199990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Paris Marketplace,0,239990.0,219990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Ripley,0,239990.0,239990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Samsung Shop,0,239990.0,239990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy A17 4G (A175 / 128 GB / 4 GB / Black) [SM-A175FZKFLTL],Samsung,Travel Tienda,0,249990.0,249990.0,128.0,4.0,6.7,57.0,13.0,5000.0,190.0,1
+Samsung Galaxy S23 Ultra (S918 / 256 GB / 8 GB / Green),Samsung,PC Factory,0,762890.0,739990.0,256.0,8.0,6.8,232.0,12.0,5000.0,234.0,1
+Honor Magic7 Lite (256 GB / 8 GB / Titanium Black),Honor,Tienda Entel,0,519990.0,329990.0,256.0,8.0,6.8,113.0,16.0,6600.0,189.0,0
+Apple iPhone 14 Pro (128 GB / Silver),Apple,Reuse,1,579990.0,550990.0,128.0,6.0,6.1,72.3,12.0,3311.5,206.0,1
+Apple iPhone 14 Pro (128 GB / Silver),Apple,BackOnline,1,599990.0,599990.0,128.0,6.0,6.1,72.3,12.0,3311.5,206.0,1
+Apple iPhone 14 Pro (128 GB / Silver),Apple,Digitek,1,679990.0,679990.0,128.0,6.0,6.1,72.3,12.0,3311.5,206.0,1
+Samsung Galaxy S24+ (S926 / 256 GB / 12 GB / Onyx Black),Samsung,Reuse,1,499990.0,474990.0,256.0,12.0,6.7,72.0,12.0,4900.0,196.0,1
+Samsung Galaxy S24+ (S926 / 256 GB / 12 GB / Onyx Black),Samsung,Tienda Entel,1,1164990.0,599990.0,256.0,12.0,6.7,72.0,12.0,4900.0,196.0,1
+Xiaomi Redmi Note 14 (256 GB / 8 GB / Midnight Black),Xiaomi,Tienda Entel,0,339990.0,189990.0,256.0,8.0,6.7,112.0,20.0,5500.0,197.0,0
+Honor Magic8 Pro (512 GB / 12 GB / Black) [5109CCPH],Honor,Tienda Movistar,0,1169990.0,1169990.0,512.0,12.0,6.7,300.0,50.0,7100.0,219.0,1
+Honor Magic8 Pro (512 GB / 12 GB / Black) [5109CCPH],Honor,Tienda Entel,0,1469990.0,1199990.0,512.0,12.0,6.7,300.0,50.0,7100.0,219.0,1
+ZTE Nubia Neo 5 GT (256 GB / 8 GB / Gray),ZTE,PC Factory,0,360790.0,349990.0,256.0,8.0,6.8,50.0,16.0,6210.0,191.0,1
+ZTE Nubia Neo 5 GT (256 GB / 8 GB / Gray),ZTE,PC Factory,0,381490.0,369990.0,256.0,8.0,6.8,50.0,16.0,6210.0,191.0,1
+ZTE Nubia Neo 5 GT (256 GB / 8 GB / Gray),ZTE,Falabella,0,399990.0,379990.0,256.0,8.0,6.8,50.0,16.0,6210.0,191.0,1
+ZTE Nubia Neo 5 GT (256 GB / 8 GB / Gray),ZTE,Eylstore,0,419990.0,399990.0,256.0,8.0,6.8,50.0,16.0,6210.0,191.0,1
+ZTE Nubia Neo 5 GT (256 GB / 8 GB / Gray),ZTE,Mercado Libre,0,449990.0,424990.0,256.0,8.0,6.8,50.0,16.0,6210.0,191.0,1
+Apple iPhone 15 Pro Max (256 GB / Natural Titanium),Apple,Reuse,1,789990.0,750490.0,256.0,8.0,6.7,72.3,12.0,4441.0,221.0,1
+Apple iPhone 15 Pro Max (256 GB / Natural Titanium),Apple,BackOnline,1,849990.0,849990.0,256.0,8.0,6.7,72.3,12.0,4441.0,221.0,1
+Honor X5C (128 GB / 4 GB / Midnight Black) [5109CAWU],Honor,Paris,0,109990.0,109990.0,128.0,4.0,6.7,50.0,5.0,5260.0,186.0,0
+Honor X5C (128 GB / 4 GB / Midnight Black) [5109CAWU],Honor,Tienda Movistar,0,124990.0,124990.0,128.0,4.0,6.7,50.0,5.0,5260.0,186.0,0
+Honor X5C (128 GB / 4 GB / Midnight Black) [5109CAWU],Honor,Tienda Entel,0,174990.0,139990.0,128.0,4.0,6.7,50.0,5.0,5260.0,186.0,0
+Honor X5C (128 GB / 4 GB / Midnight Black) [5109CAWU],Honor,Tecnomas.cl,0,146990.0,142990.0,128.0,4.0,6.7,50.0,5.0,5260.0,186.0,0
+Honor X5C (128 GB / 4 GB / Midnight Black) [5109CAWU],Honor,KDTEC,0,150256.0,147021.0,128.0,4.0,6.7,50.0,5.0,5260.0,186.0,0
+Honor X5C (128 GB / 4 GB / Midnight Black) [5109CAWU],Honor,CTMAN,0,158756.0,149770.0,128.0,4.0,6.7,50.0,5.0,5260.0,186.0,0
+Honor X5C (128 GB / 4 GB / Midnight Black) [5109CAWU],Honor,Wei,0,168396.0,154924.0,128.0,4.0,6.7,50.0,5.0,5260.0,186.0,0
+Honor X5C (128 GB / 4 GB / Midnight Black) [5109CAWU],Honor,Winpy,0,174720.0,165984.0,128.0,4.0,6.7,50.0,5.0,5260.0,186.0,0
+Samsung Galaxy A26 (A266 / 128 GB / 6 GB / Black) [SM-A266MZKDLTL],Samsung,Tienda Entel,0,289990.0,219990.0,128.0,6.0,6.7,60.0,13.0,5000.0,200.0,0
+Samsung Galaxy A26 (A266 / 128 GB / 6 GB / Black) [SM-A266MZKDLTL],Samsung,Ripley,0,279990.0,279990.0,128.0,6.0,6.7,60.0,13.0,5000.0,200.0,0
+Xiaomi Poco C81 Pro (64 GB / 4 GB / Black),Xiaomi,Mercado Libre,0,119990.0,119990.0,64.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Poco C81 Pro (64 GB / 4 GB / Black),Xiaomi,PC Factory,0,123690.0,119990.0,64.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Poco C81 Pro (64 GB / 4 GB / Black),Xiaomi,Xiaomi Chile,0,159990.0,159990.0,64.0,4.0,6.9,13.0,8.0,6000.0,208.0,0
+Xiaomi Redmi Note 14 Pro 5G (256 GB / 8 GB / Midnight Black) [60095],Xiaomi,Tienda Movistar,0,299990.0,299990.0,256.0,8.0,6.7,210.0,20.0,5110.0,190.0,1
+Xiaomi Redmi Note 14 Pro 5G (256 GB / 8 GB / Midnight Black) [60095],Xiaomi,Reuse,1,449990.0,427490.0,256.0,8.0,6.7,210.0,20.0,5110.0,190.0,1
+Xiaomi Redmi Note 14 Pro 5G (256 GB / 8 GB / Midnight Black) [60095],Xiaomi,Reuse,1,499990.0,474990.0,256.0,8.0,6.7,210.0,20.0,5110.0,190.0,1
+Tecno Spark Go 3 (64 GB / 4 GB / Ink Black),Tecno,Lider,0,89990.0,89990.0,64.0,4.0,6.7,13.0,8.0,5000.0,195.0,0
+Honor 400 Lite (256 GB / Velvet Grey),Honor,Tienda Movistar,0,279990.0,279990.0,256.0,8.0,6.7,113.0,16.0,5230.0,171.0,0
+Honor 400 Lite (256 GB / Velvet Grey),Honor,Ripley,0,289990.0,289990.0,256.0,8.0,6.7,113.0,16.0,5230.0,171.0,0
+Apple iPhone Air (256 GB / Sky Blue),Apple,Reuse,1,869990.0,826490.0,256.0,12.0,6.5,48.0,18.0,3149.0,165.0,1
+Apple iPhone Air (256 GB / Sky Blue),Apple,BackOnline,1,999990.0,999990.0,256.0,12.0,6.5,48.0,18.0,3149.0,165.0,1
+Apple iPhone Air (256 GB / Sky Blue),Apple,MacOnline,0,999990.0,999990.0,256.0,12.0,6.5,48.0,18.0,3149.0,165.0,1
+Apple iPhone Air (256 GB / Sky Blue),Apple,Tienda Movistar,0,1069990.0,1069990.0,256.0,12.0,6.5,48.0,18.0,3149.0,165.0,1
+Apple iPhone Air (256 GB / Sky Blue),Apple,Apple Store,0,1399990.0,1399990.0,256.0,12.0,6.5,48.0,18.0,3149.0,165.0,1
+Oppo Reno14 F (256 GB / 12 GB / Luminous Green),Oppo,Lider,0,349990.0,349990.0,256.0,12.0,6.6,60.0,32.0,6000.0,180.0,1
+Oppo Reno14 F (256 GB / 12 GB / Luminous Green),Oppo,Hites,0,399990.0,399990.0,256.0,12.0,6.6,60.0,32.0,6000.0,180.0,1
+Apple iPhone 15 Plus (128 GB / Black),Apple,Reuse,1,549990.0,522490.0,128.0,6.0,6.7,60.0,12.0,4383.0,201.0,1
+Apple iPhone 15 Plus (128 GB / Black),Apple,BackOnline,1,649990.0,649990.0,128.0,6.0,6.7,60.0,12.0,4383.0,201.0,1
+Apple iPhone 15 Plus (128 GB / Black),Apple,Digitek,1,679990.0,679990.0,128.0,6.0,6.7,60.0,12.0,4383.0,201.0,1
+Motorola Razr Fold (1 TB / 16 GB / Lily White) [PBAX0069CL],Motorola,Tecnomas.cl,0,1306990.0,1274990.0,1024.0,16.0,8.1,150.0,52.0,4800.0,243.0,1
+Nothing Phone (3) (256 GB / 12 GB / Black),Nothing,Paris,0,859990.0,819990.0,256.0,12.0,6.7,150.0,50.0,5150.0,218.0,1
+Nothing Phone (3) (256 GB / 12 GB / Black),Nothing,Mercado Libre,0,933990.0,888990.0,256.0,12.0,6.7,150.0,50.0,5150.0,218.0,1
+ZTE Nubia Neo 2 (256 GB / 8 GB / Gray),ZTE,ABC,0,199990.0,199990.0,256.0,8.0,6.7,52.0,16.0,6000.0,191.0,1
+Xiaomi Redmi Note 14 Pro+ 5G (256 GB / 8 GB / Midnight Black) [60760],Xiaomi,Tienda Entel,0,549990.0,319990.0,256.0,8.0,6.7,210.0,20.0,5110.0,210.0,1
+Infinix GT 30 Pro (512 GB / 12 GB / Dark Flare),Infinix,ABC,0,419990.0,379990.0,512.0,12.0,6.8,116.0,13.0,5200.0,189.0,1
+Infinix GT 30 Pro (512 GB / 12 GB / Dark Flare),Infinix,Hites,0,429990.0,429990.0,512.0,12.0,6.8,116.0,13.0,5200.0,189.0,1
+Infinix GT 30 Pro (512 GB / 12 GB / Dark Flare),Infinix,Ripley,1,489990.0,489990.0,512.0,12.0,6.8,116.0,13.0,5200.0,189.0,1
+Honor 600 Pro (512 GB / 12 GB / Golden White) [5109CHGY-B],Honor,Travel Tienda,0,1099990.0,929990.0,512.0,12.0,6.6,262.0,50.0,7000.0,200.0,1
+Honor 600 Pro (512 GB / 12 GB / Golden White) [5109CHGY-B],Honor,Mercado Libre,0,949990.0,904990.0,512.0,12.0,6.6,262.0,50.0,7000.0,200.0,1
+Honor 600 Pro (512 GB / 12 GB / Golden White) [5109CHGY-B],Honor,Falabella,0,999990.0,949990.0,512.0,12.0,6.6,262.0,50.0,7000.0,200.0,1
+Honor 600 Pro (512 GB / 12 GB / Golden White) [5109CHGY-B],Honor,Paris,0,999990.0,949990.0,512.0,12.0,6.6,262.0,50.0,7000.0,200.0,1
+Honor 600 Pro (512 GB / 12 GB / Golden White) [5109CHGY-B],Honor,Tienda Entel,0,1459990.0,999990.0,512.0,12.0,6.6,262.0,50.0,7000.0,200.0,1
+Huawei Pura 80 (256 GB / 12 GB / Frosted Black),Huawei,Reuse,1,344990.0,327740.0,256.0,12.0,6.6,75.0,13.0,5170.0,211.0,1
+Huawei Pura 80 (256 GB / 12 GB / Frosted Black),Huawei,Falabella,0,649990.0,619990.0,256.0,12.0,6.6,75.0,13.0,5170.0,211.0,1
+Huawei Pura 80 (256 GB / 12 GB / Frosted Black),Huawei,Ripley,0,639990.0,639990.0,256.0,12.0,6.6,75.0,13.0,5170.0,211.0,1
+Huawei Pura 80 (256 GB / 12 GB / Frosted Black),Huawei,Huawei Shop,0,649990.0,649990.0,256.0,12.0,6.6,75.0,13.0,5170.0,211.0,1
+Huawei Pura 80 (256 GB / 12 GB / Frosted Black),Huawei,Huawei Shop,0,699990.0,699990.0,256.0,12.0,6.6,75.0,13.0,5170.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,ABC,0,199990.0,159990.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,Tienda Movistar,0,199990.0,199990.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,Paris,0,219990.0,199990.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,Tienda Entel,0,249990.0,199990.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,Lider,0,209990.0,209990.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,Mercado Libre,0,209990.0,199990.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,PC Factory,0,216490.0,209990.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,Ripley,0,219990.0,219990.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,Xiaomi Chile,0,229990.0,229990.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,Hites,0,249990.0,249990.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,Falabella,0,259990.0,259990.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,CTMAN,0,321042.0,302870.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 17C (128 GB / 4 GB / Black),Xiaomi,CTMAN,0,335776.0,316770.0,128.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Tecno Spark 30C (128 GB / 4 GB / Magic Skin 3.0),Tecno,Ripley,0,109990.0,109990.0,128.0,4.0,6.7,50.0,8.0,5000.0,195.0,0
+Vivo V70 (512 GB / 12 GB / Authentic Black),Vivo,ABC,0,581500.0,581500.0,512.0,12.0,6.6,108.0,50.0,6500.0,187.0,0
+Vivo V70 (512 GB / 12 GB / Authentic Black),Vivo,Falabella,0,729990.0,699990.0,512.0,12.0,6.6,108.0,50.0,6500.0,187.0,0
+Vivo V70 (512 GB / 12 GB / Authentic Black),Vivo,Ripley,0,749990.0,749990.0,512.0,12.0,6.6,108.0,50.0,6500.0,187.0,0
+Vivo V70 (512 GB / 12 GB / Authentic Black),Vivo,Paris,0,789990.0,749990.0,512.0,12.0,6.6,108.0,50.0,6500.0,187.0,0
+Samsung Galaxy Z Fold7 (F966 / 256 GB / 12 GB / Jet Black) [SM-F966BZKJCHO],Samsung,Tienda Entel,0,2379990.0,1599990.0,256.0,12.0,8.0,222.0,20.0,4400.0,215.0,1
+Samsung Galaxy Z Fold7 (F966 / 256 GB / 12 GB / Jet Black) [SM-F966BZKJCHO],Samsung,Ripley,0,1899990.0,1899990.0,256.0,12.0,8.0,222.0,20.0,4400.0,215.0,1
+Samsung Galaxy Z Fold7 (F966 / 256 GB / 12 GB / Jet Black) [SM-F966BZKJCHO],Samsung,Travel Tienda,0,2069990.0,2069990.0,256.0,12.0,8.0,222.0,20.0,4400.0,215.0,1
+Honor 400 Smart (256 GB / 8 GB / Dorado) [5109BXCT],Honor,Tienda Movistar,0,219990.0,219990.0,256.0,8.0,6.8,52.0,5.0,6500.0,189.0,1
+Oppo A6 Pro 5G (256 GB / 8 GB / Stellar Blue),Oppo,Hites,0,309990.0,309990.0,256.0,8.0,6.6,52.0,16.0,7000.0,185.0,1
+Oppo A6 Pro 5G (256 GB / 8 GB / Stellar Blue),Oppo,ABC,0,399990.0,399990.0,256.0,8.0,6.6,52.0,16.0,7000.0,185.0,1
+Xiaomi 12 (256 GB / 8 GB / Gray),Xiaomi,Reuse,1,249990.0,237490.0,256.0,8.0,6.3,68.0,32.0,4500.0,179.0,1
+Xiaomi Redmi 15C (256 GB / 4 GB / Gray),Xiaomi,Paris,0,169990.0,149990.0,256.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 15C (256 GB / 4 GB / Gray),Xiaomi,Tienda Movistar,0,159990.0,159990.0,256.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Xiaomi Redmi 15C (256 GB / 4 GB / Gray),Xiaomi,Tienda Entel,0,189990.0,159990.0,256.0,4.0,6.9,50.0,8.0,6000.0,211.0,1
+Vivo V60 Lite (256 GB / 8 GB / Elegant Black),Vivo,ABC,0,281500.0,281500.0,256.0,8.0,6.8,58.0,64.0,6500.0,194.0,1
+Vivo V60 Lite (256 GB / 8 GB / Elegant Black),Vivo,Hites,0,319990.0,319990.0,256.0,8.0,6.8,58.0,64.0,6500.0,194.0,1
+Vivo V60 Lite (256 GB / 8 GB / Elegant Black),Vivo,Paris,0,349990.0,319990.0,256.0,8.0,6.8,58.0,64.0,6500.0,194.0,1
+Xiaomi Poco C85 (128 GB / 6 GB / Negro),Xiaomi,Mercado Libre,0,148333.0,148333.0,128.0,6.0,6.9,52.0,8.0,6000.0,205.0,1
+Xiaomi Poco C85 (128 GB / 6 GB / Negro),Xiaomi,PC Factory,0,154590.0,149990.0,128.0,6.0,6.9,52.0,8.0,6000.0,205.0,1
+Vivo Y29s (256 GB / 8 GB / Titanium Gold),Vivo,Tienda Movistar,0,164990.0,164990.0,256.0,8.0,6.7,50.0,5.0,5500.0,199.0,0
+Xiaomi Redmi Note 13 Pro (256 GB / 8 GB / Midnight Black) [54672],Xiaomi,Reuse,1,244990.0,232740.0,256.0,8.0,6.7,210.0,16.0,5100.0,187.0,1
+Samsung Galaxy S25+ (S936 / 256 GB / 12 GB / Navy) [SM-S936BDBJLTL],Samsung,Reuse,1,599990.0,569990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy S25+ (S936 / 256 GB / 12 GB / Navy) [SM-S936BDBJLTL],Samsung,Ripley,0,999990.0,999990.0,256.0,12.0,6.7,72.0,12.0,4900.0,190.0,1
+Samsung Galaxy A37 (A376/ 128 GB / 6 GB / Awesome White) [SM-A376BZWJLTL],Samsung,Ripley,0,329990.0,309990.0,128.0,6.0,6.6,63.0,12.0,5000.0,196.0,1
+Samsung Galaxy A37 (A376/ 128 GB / 6 GB / Awesome White) [SM-A376BZWJLTL],Samsung,Paris Marketplace,0,349990.0,339990.0,128.0,6.0,6.6,63.0,12.0,5000.0,196.0,1
+Samsung Galaxy A37 (A376/ 128 GB / 6 GB / Awesome White) [SM-A376BZWJLTL],Samsung,Ripley Marketplace,0,349990.0,339990.0,128.0,6.0,6.6,63.0,12.0,5000.0,196.0,1
+Samsung Galaxy A37 (A376/ 128 GB / 6 GB / Awesome White) [SM-A376BZWJLTL],Samsung,Falabella Marketplace,0,349990.0,349990.0,128.0,6.0,6.6,63.0,12.0,5000.0,196.0,1
+Samsung Galaxy A37 (A376/ 128 GB / 6 GB / Awesome White) [SM-A376BZWJLTL],Samsung,Mercado Libre,0,349990.0,324990.0,128.0,6.0,6.6,63.0,12.0,5000.0,196.0,1
+Samsung Galaxy A37 (A376/ 128 GB / 6 GB / Awesome White) [SM-A376BZWJLTL],Samsung,Mercado Libre Samsung,0,349990.0,349990.0,128.0,6.0,6.6,63.0,12.0,5000.0,196.0,1
+Samsung Galaxy A37 (A376/ 128 GB / 6 GB / Awesome White) [SM-A376BZWJLTL],Samsung,Samsung Members,0,359990.0,359990.0,128.0,6.0,6.6,63.0,12.0,5000.0,196.0,1
+Samsung Galaxy A37 (A376/ 128 GB / 6 GB / Awesome White) [SM-A376BZWJLTL],Samsung,Travel Tienda,0,369990.0,369990.0,128.0,6.0,6.6,63.0,12.0,5000.0,196.0,1
+Samsung Galaxy A37 (A376/ 128 GB / 6 GB / Awesome White) [SM-A376BZWJLTL],Samsung,Samsung Shop,0,389990.0,370490.0,128.0,6.0,6.6,63.0,12.0,5000.0,196.0,1
+Samsung Galaxy A36 (A366 / 128 GB / 6 GB / Awesome Black) [SM-A366EZKBLTL],Samsung,Tienda Entel,0,409990.0,269990.0,128.0,6.0,6.7,63.0,12.0,5000.0,195.0,1
+Samsung Galaxy A36 (A366 / 128 GB / 6 GB / Awesome Black) [SM-A366EZKBLTL],Samsung,Ripley,0,349990.0,349990.0,128.0,6.0,6.7,63.0,12.0,5000.0,195.0,1
+Samsung Galaxy A36 (A366 / 128 GB / 6 GB / Awesome Black) [SM-A366EZKBLTL],Samsung,Tienda Entel,0,509990.0,369990.0,128.0,6.0,6.7,63.0,12.0,5000.0,195.0,1
+Samsung Galaxy A36 (A366 / 128 GB / 6 GB / Awesome Black) [SM-A366EZKBLTL],Samsung,Mercado Libre,0,402830.0,402830.0,128.0,6.0,6.7,63.0,12.0,5000.0,195.0,1
+Samsung Galaxy A36 (A366 / 128 GB / 6 GB / Awesome Black) [SM-A366EZKBLTL],Samsung,Mercado Libre Samsung,0,402830.0,402830.0,128.0,6.0,6.7,63.0,12.0,5000.0,195.0,1
+Apple iPhone 12 Pro (128 GB / Graphite),Apple,Reuse,1,329990.0,313490.0,128.0,6.0,6.1,36.3,12.0,2815.0,189.0,1
+Apple iPhone 12 Pro (128 GB / Graphite),Apple,Digitek,1,379990.0,379990.0,128.0,6.0,6.1,36.3,12.0,2815.0,189.0,1
+Motorola Moto G56 (256 GB / 8 GB / Pantone Black Oyster),Motorola,Tienda Entel,0,269990.0,189990.0,256.0,8.0,6.7,58.0,32.0,5200.0,200.0,1
+Motorola Moto G56 (256 GB / 8 GB / Pantone Black Oyster),Motorola,NotebookStore,0,389990.0,376730.0,256.0,8.0,6.7,58.0,32.0,5200.0,200.0,1
+Motorola Moto G56 (256 GB / 8 GB / Pantone Black Oyster),Motorola,Tecnomas.cl,0,388990.0,378990.0,256.0,8.0,6.7,58.0,32.0,5200.0,200.0,1
+Motorola Moto G56 (256 GB / 8 GB / Pantone Black Oyster),Motorola,Centrale,0,411400.0,389950.0,256.0,8.0,6.7,58.0,32.0,5200.0,200.0,1
+Nothing Phone (3a) (128 GB / 8 GB / Black),Nothing,Mercado Libre,0,429990.0,404990.0,128.0,8.0,6.8,108.0,32.0,5000.0,201.0,1
+Apple iPhone 14 Pro Max (512 GB / Deep Purple),Apple,BackOnline,1,799990.0,799990.0,512.0,6.0,6.7,72.3,12.0,3311.5,240.0,1
+Apple iPhone 12 Mini (128 GB / Black),Apple,Digitek,1,229990.0,229990.0,128.0,4.0,5.4,24.0,12.0,2227.0,135.0,1
+Apple iPhone 12 Mini (128 GB / Black),Apple,Reuse,1,249990.0,237490.0,128.0,4.0,5.4,24.0,12.0,2227.0,135.0,1
+Apple iPhone 12 Mini (128 GB / Black),Apple,Digitek,1,279990.0,279990.0,128.0,4.0,5.4,24.0,12.0,2227.0,135.0,1
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Light Violet) (clone) [SM-A075MLVGLTL],Samsung,Lider,0,219990.0,199990.0,128.0,4.0,6.7,50.0,8.0,6000.0,197.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Light Violet) (clone) [SM-A075MLVGLTL],Samsung,Mercado Libre,0,268845.0,243845.0,128.0,4.0,6.7,50.0,8.0,6000.0,197.0,0
+Samsung Galaxy A07 4G (A075 / 128 GB / 4 GB / Light Violet) (clone) [SM-A075MLVGLTL],Samsung,Mercado Libre Samsung,0,268845.0,268845.0,128.0,4.0,6.7,50.0,8.0,6000.0,197.0,0
+Samsung Galaxy S23 (S911 / 256 GB / 8 GB / Green),Samsung,Reuse,1,389990.0,370490.0,256.0,8.0,6.1,72.0,12.0,3900.0,168.0,1
+TCL 60 NxtPaper 60 Ultra (512 GB / 12 GB / Black),TCL,Lider Marketplace,0,599990.0,599990.0,512.0,12.0,7.2,108.0,32.0,5200.0,227.0,1
+Tecno Spark 50 (256 GB / 8 GB / Champagne Gold),Tecno,Lider,0,209990.0,209990.0,256.0,8.0,6.8,50.0,8.0,6500.0,210.0,0
+Tecno Spark 50 (256 GB / 8 GB / Champagne Gold),Tecno,Ripley,0,219990.0,219990.0,256.0,8.0,6.8,50.0,8.0,6500.0,210.0,0
+Xiaomi 15 Ultra (Black),Xiaomi,Mercado Libre,0,1199990.0,1154990.0,512.0,16.0,6.7,350.0,32.0,5410.0,226.0,1
+Xiaomi 15 Ultra (Black),Xiaomi,Xiaomi Chile,0,1299990.0,1299990.0,512.0,16.0,6.7,350.0,32.0,5410.0,226.0,1
+Xiaomi 15 Ultra (Black),Xiaomi,Falabella Marketplace,0,1299990.0,1299990.0,512.0,16.0,6.7,350.0,32.0,5410.0,226.0,1
+Honor X5C Plus (256 GB / 6 GB / Meteor Silver),Honor,Tienda Entel,0,184990.0,149990.0,256.0,6.0,6.7,50.0,5.0,5260.0,186.0,0
+Oppo A40 (256 GB / 4 GB / Starry Purple),Oppo,ABC,0,149990.0,149990.0,256.0,4.0,6.7,50.0,5.0,5100.0,186.0,0
+Huawei Nova Y73 (256 GB / 8 GB / Blue),Huawei,Reuse,1,149990.0,142490.0,256.0,8.0,6.7,50.0,8.0,6620.0,203.0,1
+Huawei Nova Y73 (256 GB / 8 GB / Blue),Huawei,Falabella,0,199990.0,189990.0,256.0,8.0,6.7,50.0,8.0,6620.0,203.0,1
+Tecno Pova 7 (256 GB / 8 GB / Magic Silver),Tecno,Ripley,0,249990.0,249990.0,256.0,8.0,6.8,50.0,13.0,6000.0,207.0,1
+Huawei Nova 13 (256 GB / 12 GB / Green),Huawei,Huawei Shop,0,309990.0,309990.0,256.0,12.0,6.7,58.0,60.0,5000.0,195.0,1
+Motorola RAZR 50 (512 GB / 12 GB / Beach Sand) [PB200084CL],Motorola,Reuse,1,609990.0,579490.0,512.0,12.0,6.9,63.0,32.0,4200.0,188.0,1
+Apple iPhone 14 Plus (128 GB / Midnight),Apple,Reuse,1,459990.0,436990.0,128.0,6.0,6.7,24.0,12.0,3311.5,203.0,1
+Apple iPhone 14 Plus (128 GB / Midnight),Apple,Digitek,1,499990.0,499990.0,128.0,6.0,6.7,24.0,12.0,3311.5,203.0,1
+Motorola Edge 60 Fusion (256 GB / 8 GB / Pantone Amazonite) [PB7D0016CL],Motorola,Hites,0,229990.0,229990.0,256.0,8.0,6.7,63.0,32.0,5200.0,180.0,1
+Apple iPhone 12 (64 GB / White),Apple,Digitek,1,269990.0,269990.0,64.0,4.0,6.1,24.0,12.0,2880.0,164.0,1
+Honor X6b 5G (256 GB / 4 GB / Forest Green),Honor,Tienda Entel,0,209990.0,149990.0,256.0,4.0,6.8,52.0,5.0,5200.0,192.0,1
+Motorola Moto G86 (256 GB / 8 GB / Chrysanthemum) [PB8W0003CL],Motorola,ABC,0,279990.0,249990.0,256.0,8.0,6.7,58.0,32.0,5200.0,185.0,1
+Motorola Moto G86 (256 GB / 8 GB / Chrysanthemum) [PB8W0003CL],Motorola,Tecnomas.cl,0,347990.0,347990.0,256.0,8.0,6.7,58.0,32.0,5200.0,185.0,1
+Xiaomi Redmi 17 (128 GB / 4 GB / Black),Xiaomi,Hites,0,199990.0,199990.0,128.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi 17 (128 GB / 4 GB / Black),Xiaomi,Lider,0,219990.0,219990.0,128.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi 17 (128 GB / 4 GB / Black),Xiaomi,Paris,0,229990.0,219990.0,128.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi 17 (128 GB / 4 GB / Black),Xiaomi,Tienda Movistar,0,229990.0,229990.0,128.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi 17 (128 GB / 4 GB / Black),Xiaomi,PC Factory,0,237090.0,229990.0,128.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi 17 (128 GB / 4 GB / Black),Xiaomi,Tienda Entel,0,289990.0,229990.0,128.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi 17 (128 GB / 4 GB / Black),Xiaomi,Xiaomi Chile,0,249990.0,249990.0,128.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi 17 (128 GB / 4 GB / Black),Xiaomi,Travel Tienda,0,259990.0,259990.0,128.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi 17 (128 GB / 4 GB / Black),Xiaomi,Ripley,0,259990.0,259990.0,128.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi 17 (128 GB / 4 GB / Black),Xiaomi,CTMAN,0,358344.0,338060.0,128.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi 17 (128 GB / 4 GB / Black),Xiaomi,CTMAN,0,385882.0,364040.0,128.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Tecno Spark 30 Pro (256 GB/ 8 GB / Arctic Glow),Tecno,Ripley,0,184990.0,184990.0,256.0,8.0,6.8,108.0,13.0,5000.0,195.0,1
+Infinix Hot 40i (256 GB / 8 GB / Starfall Green),Infinix,Vantek,0,129990.0,129990.0,256.0,8.0,6.6,50.1,32.0,5000.0,190.0,1
+Oppo A5 Pro 5G (256 GB / 8 GB / Flower Pink),Oppo,Lider,0,219990.0,219990.0,256.0,8.0,6.7,52.0,8.0,5800.0,194.0,1
+ZTE Blade A35e (64 GB / 2 GB / Gris),ZTE,PC Factory,0,92790.0,89990.0,64.0,2.0,6.5,8.0,5.0,5000.0,185.0,0
+ZTE Blade A35e (64 GB / 2 GB / Gris),ZTE,Mercado Libre,0,109990.0,99990.0,64.0,2.0,6.5,8.0,5.0,5000.0,185.0,0
+Xiaomi Poco X8 Pro (512 GB / 12 GB / White),Xiaomi,Xiaomi Chile,0,749990.0,749990.0,512.0,12.0,6.6,58.0,20.0,6500.0,201.0,1
+Xiaomi Poco C71 (64 GB / 3 GB / Power Black),Xiaomi,Tecnocam,0,85405.0,85405.0,64.0,3.0,6.9,32.0,8.0,5200.0,193.0,0
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,ABC,0,349990.0,299990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,Lider,0,329990.0,329990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,Hites,0,329990.0,329990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,PC Factory,0,340190.0,329990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,ABC,0,349990.0,349990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,Travel Tienda,0,399990.0,349990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,Mercado Libre,0,359990.0,334990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,Ripley,0,359990.0,359990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,Paris,0,379990.0,359990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,Falabella,0,379990.0,359990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,Tienda Entel,0,459990.0,379990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,CTMAN,0,426205.0,402080.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,Tecnomas.cl,0,416990.0,406990.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,NotebookStore,0,427990.0,413438.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Honor 600 Smart (256 GB / 6 GB / Meteor SIlver),Honor,KDTEC,0,445417.0,435828.0,256.0,6.0,6.9,50.0,5.0,8100.0,190.0,1
+Xiaomi Poco F9 Pro (256 GB / 12 GB / Aurora Green),Xiaomi,Xiaomi Chile,0,849990.0,849990.0,256.0,12.0,6.6,258.0,20.0,6330.0,206.0,1
+Xiaomi Redmi Note 14 Pro 4G (256 GB / 8 GB / Midnight Black),Xiaomi,Reuse,1,289990.0,275490.0,256.0,8.0,6.7,210.0,32.0,5500.0,180.0,1
+ZTE Nubia Focus 2 (256 GB / 8 GB / Obsidian Black),ZTE,Falabella,0,219990.0,209990.0,256.0,8.0,6.7,110.0,16.0,5000.0,198.0,0
+Xiaomi 14 (512 GB / 12 GB / Black),Xiaomi,Mercado Libre,0,1071462.0,1026462.0,512.0,12.0,6.4,150.0,32.0,4610.0,188.0,1
+Tecno Camon 50 Ultra (256 GB / 8 GB / Cypress Green),Tecno,Ripley,0,369990.0,369990.0,256.0,8.0,6.8,108.0,50.0,6150.0,178.0,1
+Vivo X300 Pro (512 GB / 16 GB / Phantom Black),Vivo,Falabella,0,1299990.0,1249990.0,512.0,16.0,6.8,300.0,50.0,6510.0,226.0,1
+Oppo A79 (256 GB / 8 GB / Dazzling Purple),Oppo,ABC,0,239990.0,239990.0,256.0,8.0,6.7,52.0,8.0,5000.0,193.0,0
+Apple iPhone 16 Plus (128 GB / Pink),Apple,Reuse,1,729990.0,693490.0,128.0,8.0,6.7,60.0,12.0,3311.5,199.0,1
+Apple iPhone 12 Pro Max (512 GB / Pacific Blue),Apple,Reuse,1,459990.0,436990.0,512.0,6.0,6.7,36.3,12.0,3969.0,228.0,1
+Apple iPhone 12 Pro Max (512 GB / Pacific Blue),Apple,Digitek,1,509990.0,509990.0,512.0,6.0,6.7,36.3,12.0,3969.0,228.0,1
+Huawei Nova 14 Pro (512 GB / 12 GB / Black),Huawei,Reuse,1,369990.0,351490.0,512.0,12.0,6.8,70.0,50.0,5500.0,207.0,1
+Huawei Nova 14 Pro (512 GB / 12 GB / Black),Huawei,Falabella,0,499990.0,469990.0,512.0,12.0,6.8,70.0,50.0,5500.0,207.0,1
+Huawei Nova 14 Pro (512 GB / 12 GB / Black),Huawei,Huawei Shop,0,479990.0,479990.0,512.0,12.0,6.8,70.0,50.0,5500.0,207.0,1
+Huawei Nova 14 Pro (512 GB / 12 GB / Black),Huawei,Ripley,0,489990.0,489990.0,512.0,12.0,6.8,70.0,50.0,5500.0,207.0,1
+Honor Magic6 Lite (256 GB / 8 GB / Silver),Honor,Hites,0,399990.0,399990.0,256.0,8.0,6.8,115.0,16.0,5300.0,185.0,0
+Vivo Y18 (286 GB / 8 GB / Mocha Brown),Vivo,Vantek,0,159990.0,159990.0,256.0,8.0,6.6,50.1,8.0,5000.0,185.0,0
+Xiaomi Redmi Redmi 17 4G (256 GB / 4 GB / Black),Xiaomi,Mercado Libre,0,229990.0,219990.0,256.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi Redmi 17 4G (256 GB / 4 GB / Black),Xiaomi,Hites,0,249990.0,229990.0,256.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi Redmi 17 4G (256 GB / 4 GB / Black),Xiaomi,Xiaomi Chile,0,249990.0,249990.0,256.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi Redmi 17 4G (256 GB / 4 GB / Black),Xiaomi,Falabella,0,299990.0,299990.0,256.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi Redmi 17 4G (256 GB / 4 GB / Black),Xiaomi,KDTEC,0,345413.0,337977.0,256.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Xiaomi Redmi Redmi 17 4G (256 GB / 4 GB / Black),Xiaomi,CTMAN,0,364958.0,344300.0,256.0,4.0,6.9,50.0,8.0,7500.0,232.0,1
+Samsung Galaxy A07 5G (A076 / 128 GB / 4 GB / Gray) [SM-A076MZKBLTL],Samsung,Tienda Entel,0,199990.0,159990.0,128.0,4.0,6.7,52.0,8.0,6000.0,199.0,0
+Samsung Galaxy A07 5G (A076 / 128 GB / 4 GB / Gray) [SM-A076MZKBLTL],Samsung,Ripley Marketplace,0,199990.0,194990.0,128.0,4.0,6.7,52.0,8.0,6000.0,199.0,0
+Samsung Galaxy A07 5G (A076 / 128 GB / 4 GB / Gray) [SM-A076MZKBLTL],Samsung,Falabella Marketplace,0,199990.0,199990.0,128.0,4.0,6.7,52.0,8.0,6000.0,199.0,0
+Samsung Galaxy A07 5G (A076 / 128 GB / 4 GB / Gray) [SM-A076MZKBLTL],Samsung,Lider Marketplace,0,199990.0,199990.0,128.0,4.0,6.7,52.0,8.0,6000.0,199.0,0
+Samsung Galaxy A07 5G (A076 / 128 GB / 4 GB / Gray) [SM-A076MZKBLTL],Samsung,Hites,0,209990.0,209990.0,128.0,4.0,6.7,52.0,8.0,6000.0,199.0,0
+Samsung Galaxy A07 5G (A076 / 128 GB / 4 GB / Gray) [SM-A076MZKBLTL],Samsung,Samsung Members,0,209990.0,209990.0,128.0,4.0,6.7,52.0,8.0,6000.0,199.0,0
+Samsung Galaxy A07 5G (A076 / 128 GB / 4 GB / Gray) [SM-A076MZKBLTL],Samsung,Paris Marketplace,0,239990.0,219990.0,128.0,4.0,6.7,52.0,8.0,6000.0,199.0,0
+Samsung Galaxy A07 5G (A076 / 128 GB / 4 GB / Gray) [SM-A076MZKBLTL],Samsung,Samsung Shop,0,239990.0,239990.0,128.0,4.0,6.7,52.0,8.0,6000.0,199.0,0
+Apple iPhone SE 2022 (64 GB / White),Apple,Reuse,1,169990.0,161490.0,64.0,4.0,4.7,12.0,7.0,2018.0,144.0,1
+Apple iPhone SE 2022 (64 GB / White),Apple,Digitek,1,179990.0,179990.0,64.0,4.0,4.7,12.0,7.0,2018.0,144.0,1
+Apple iPhone SE 2022 (64 GB / White),Apple,Digitek,1,199990.0,199990.0,64.0,4.0,4.7,12.0,7.0,2018.0,144.0,1
+ZTE Nubia Red Magic 7s Pro (256 GB / 12 GB / Obsidian),ZTE,Reuse,1,549990.0,522490.0,256.0,12.0,6.8,74.0,16.0,5000.0,235.0,1
+ZTE Blade V80 Max (256 GB / 8 GB / Space Black),ZTE,Mercado Libre,0,159990.0,149990.0,256.0,8.0,6.9,50.0,16.0,6000.0,191.0,0
+ZTE Blade V80 Max (256 GB / 8 GB / Space Black),ZTE,PC Factory,0,164990.0,159990.0,256.0,8.0,6.9,50.0,16.0,6000.0,191.0,0
+ZTE Blade V80 Max (256 GB / 8 GB / Space Black),ZTE,Eylstore,0,184790.0,175990.0,256.0,8.0,6.9,50.0,16.0,6000.0,191.0,0
+ZTE Blade V80 Max (256 GB / 8 GB / Space Black),ZTE,Falabella,0,209990.0,199990.0,256.0,8.0,6.9,50.0,16.0,6000.0,191.0,0
+Xiaomi Redmi Note 11S (128 GB / 6 GB / Twilight Blue) [37936],Xiaomi,Digitek,0,219990.0,219990.0,128.0,6.0,6.4,120.0,16.0,5000.0,179.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,CTMAN,0,1352083.0,1275550.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,Tecnomas.cl,0,1317990.0,1285850.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,KDTEC,0,1328335.0,1299740.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,Travel Tienda,0,1299990.0,1299990.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,Wei,0,1419300.0,1305756.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,NotebookStore,0,1356990.0,1310852.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,PC Factory,0,1360790.0,1319990.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,Winpy,0,1465600.0,1392320.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,Motorola Shop,0,1399990.0,1399990.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,Falabella Marketplace,0,1399990.0,1399990.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,Todoclick,0,1585493.0,1558990.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,Mercado Libre,0,1699990.0,1654990.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Motorola Razr 70 Ultra (1 TB / 16 GB / Cocoa),Motorola,Mercado Libre,0,1996171.0,1996171.0,1024.0,16.0,7.0,100.0,50.0,4700.0,199.0,1
+Apple iPhone 8 (64 GB / Space Gray),Apple,Digitek,1,139990.0,139990.0,64.0,2.0,4.7,12.0,7.0,1821.0,148.0,1
+Huawei Mate X7 (512 GB / 16 GB / Black),Huawei,Huawei Shop,0,1599990.0,1599990.0,512.0,12.0,8.0,138.0,16.0,5110.0,236.0,1
+Doogee V10 (Classic Black),Doogee,Reuse,1,339990.0,322990.0,128.0,8.0,6.4,58.0,16.0,8500.0,340.0,1
+Xiaomi Redmi Note 11 Pro 5G (128 GB / 6 GB / Graphite Gray) [38075],Xiaomi,Digitek,1,229990.0,229990.0,128.0,6.0,6.7,118.0,16.0,5000.0,202.0,1
+Xiaomi Redmi Note 11 Pro 5G (128 GB / 6 GB / Graphite Gray) [38075],Xiaomi,Digitek,0,239990.0,239990.0,128.0,6.0,6.7,118.0,16.0,5000.0,202.0,1
+Oppo A6X 4G (128 GB / 4 GB / Plum Purple),Oppo,Hites,0,129990.0,119990.0,128.0,4.0,6.7,13.0,5.0,6500.0,210.0,0
+Huawei Mate 80 Pro (512 GB / 16 GB / Gold),Huawei,Huawei Shop,0,999990.0,999990.0,512.0,16.0,6.8,143.0,13.0,5750.0,219.0,0
+Huawei Mate 80 Pro (512 GB / 16 GB / Gold),Huawei,Falabella,0,1299990.0,1249990.0,512.0,16.0,6.8,143.0,13.0,5750.0,219.0,0
+Huawei Mate 80 Pro (512 GB / 16 GB / Gold),Huawei,Huawei Shop,0,1699990.0,1699990.0,512.0,16.0,6.8,143.0,13.0,5750.0,219.0,0
+Nothing Phone (3a) Lite (256 GB / 8 GB / Blue),Nothing,Mercado Libre,0,359990.0,334990.0,256.0,8.0,6.8,108.0,32.0,5000.0,199.0,1
+Nothing Phone (3a) Lite (256 GB / 8 GB / Blue),Nothing,Paris,0,359990.0,359990.0,256.0,8.0,6.8,108.0,32.0,5000.0,199.0,1
+Huawei Nova 13 Pro (512 GB / 12 GB / Black),Huawei,Huawei Shop,0,399990.0,399990.0,512.0,12.0,6.8,70.0,68.0,5000.0,209.0,1
+Apple iPhone 11 Pro (64 GB / Silver),Apple,Reuse,1,219990.0,208990.0,64.0,4.0,5.8,36.0,12.0,3190.0,188.0,1
+Vivo Y70 FE (256 GB / 8 GB / Muse Purple),Vivo,Falabella,0,499990.0,479990.0,256.0,8.0,6.8,208.0,32.0,7000.0,200.0,1
+Bmobile Dots Lava Blaze (64 GB / 4 GB / Green),Bmobile,ABC,0,89990.0,89990.0,64.0,4.0,6.5,13.0,8.0,5000.0,153.0,0
+Bmobile Dots Ultra (128 GB / 4 GB / Blue),Bmobile,ABC,0,99990.0,99990.0,128.0,4.0,6.5,50.0,13.0,5000.0,163.0,0
+Xiaomi Redmi 13C (128 GB / 4 GB / Black),Xiaomi,PC Factory,0,164990.0,159990.0,128.0,4.0,6.7,54.0,5.0,5000.0,205.0,0
+Xiaomi Redmi A7 (64 GB / 3 GB / Sky Blue),Xiaomi,Hites,0,129990.0,129990.0,64.0,3.0,6.9,13.0,8.0,5200.0,193.0,0
+Xiaomi Redmi Note 10 (128 GB / 4 GB / Shadow Black),Xiaomi,PC Factory,0,185590.0,179990.0,128.0,4.0,6.4,60.0,13.0,5000.0,179.0,0
+Motorola Moto Moto G37 [PBEF0008CL],Motorola,Falabella Marketplace,0,229990.0,229990.0,128.0,4.0,6.7,50.0,8.0,5200.0,191.0,1
+Vivo V40 SE (256 GB / 8 GB / Crystal Black),Vivo,Tienda Movistar,0,329990.0,329990.0,256.0,8.0,6.7,60.0,16.0,5000.0,186.0,1
+Apple iPhone 13 Pro (128 GB / Sierra Blue),Apple,BackOnline,1,449990.0,449990.0,128.0,6.0,6.1,36.3,12.0,3095.0,204.0,1
+Xiaomi 15 (512 GB / 12 GB / Green),Xiaomi,Mercado Libre,0,799990.0,754990.0,512.0,12.0,6.4,150.0,32.0,5240.0,191.0,1
+Xiaomi 15 (512 GB / 12 GB / Green),Xiaomi,Xiaomi Chile,0,849990.0,849990.0,512.0,12.0,6.4,150.0,32.0,5240.0,191.0,1
+Xiaomi 15 (512 GB / 12 GB / Green),Xiaomi,Falabella Marketplace,0,849990.0,849990.0,512.0,12.0,6.4,150.0,32.0,5240.0,191.0,1
+Vivo Y31 (256 GB / 6 GB / Black),Vivo,Falabella,0,359990.0,339990.0,256.0,6.0,6.7,50.0,8.0,6500.0,209.0,0
+Vivo Y31 (256 GB / 6 GB / Black),Vivo,ABC,0,349990.0,349990.0,256.0,6.0,6.7,50.0,8.0,6500.0,209.0,0
+Vivo Y31 (256 GB / 6 GB / Black),Vivo,Hites,0,349990.0,349990.0,256.0,6.0,6.7,50.0,8.0,6500.0,209.0,0
+Vivo Y31 (256 GB / 6 GB / Black),Vivo,Paris,0,369990.0,349990.0,256.0,6.0,6.7,50.0,8.0,6500.0,209.0,0
+Vivo Y31 (256 GB / 6 GB / Black),Vivo,Ripley,0,379990.0,379990.0,256.0,6.0,6.7,50.0,8.0,6500.0,209.0,0
+Samsung Galaxy S23 FE (S711 / 256 GB / 8 GB / Graphite),Samsung,Ripley,0,779990.0,779990.0,256.0,8.0,6.4,70.0,10.0,4500.0,209.0,1
+Vivo Y05 (128 GB / 4 GB / Haze Blue),Vivo,ABC,0,159990.0,159990.0,128.0,4.0,6.7,8.0,5.0,6500.0,209.0,0
+Vivo Y05 (128 GB / 4 GB / Haze Blue),Vivo,Paris,0,169990.0,159990.0,128.0,4.0,6.7,8.0,5.0,6500.0,209.0,0
+Vivo Y05 (128 GB / 4 GB / Haze Blue),Vivo,Lider,0,189990.0,189990.0,128.0,4.0,6.7,8.0,5.0,6500.0,209.0,0
+Vivo Y05 (128 GB / 4 GB / Haze Blue),Vivo,Hites,0,189990.0,189990.0,128.0,4.0,6.7,8.0,5.0,6500.0,209.0,0
+Vivo Y05 (128 GB / 4 GB / Haze Blue),Vivo,Falabella,0,189990.0,189990.0,128.0,4.0,6.7,8.0,5.0,6500.0,209.0,0
+Vivo Y05 (128 GB / 4 GB / Haze Blue),Vivo,Ripley,0,189990.0,189990.0,128.0,4.0,6.7,8.0,5.0,6500.0,209.0,0
+Vivo V70 FE (256 GB / 8 GB / Muse Purple),Vivo,Paris,0,529990.0,499990.0,256.0,8.0,6.8,208.0,32.0,7000.0,200.0,1
+Vivo V70 FE (256 GB / 8 GB / Muse Purple),Vivo,Ripley,0,579990.0,579990.0,256.0,8.0,6.8,208.0,32.0,7000.0,200.0,1
+Vivo V70 FE (256 GB / 8 GB / Muse Purple),Vivo,Falabella,0,599990.0,589990.0,256.0,8.0,6.8,208.0,32.0,7000.0,200.0,1
+Samsung Galaxy S21 Ultra 5G (G998 / 256 GB / 12 GB / Phantom Black),Samsung,PC Factory,0,1133990.0,1099990.0,256.0,12.0,6.8,140.0,40.0,5000.0,227.0,1
+Oppo A5 5G (256 GB / 8 GB / Mist White),Oppo,Tienda Movistar,0,229990.0,229990.0,256.0,8.0,6.7,52.0,8.0,6000.0,194.0,1
+Infinix Hot 60 Pro+ (256 GB / 8 GB / Titanium Silver),Infinix,Hites,0,239990.0,239990.0,256.0,8.0,6.8,50.0,13.0,5160.0,155.0,1
+Honor X5 Plus (64 GB / 4 GB / Midnight Black),Honor,Hites,0,129990.0,129990.0,64.0,4.0,6.6,52.0,5.0,5200.0,188.0,1
+Infinix Note 50S (256 GB / 8 GB / Titanium Grey),Infinix,Hites,0,269990.0,269990.0,256.0,8.0,6.8,66.0,13.0,5500.0,180.0,0
+Infinix Note 50S (256 GB / 8 GB / Titanium Grey),Infinix,Ripley,1,299990.0,299990.0,256.0,8.0,6.8,66.0,13.0,5500.0,180.0,0
+Oppo A6X 5G (256 GB / 4 GB / Plum Purple),Oppo,Hites,0,199990.0,199990.0,256.0,4.0,6.7,13.0,5.0,6500.0,210.0,0
+Oppo A6X 5G (256 GB / 4 GB / Plum Purple),Oppo,Lider,0,199990.0,199990.0,256.0,4.0,6.7,13.0,5.0,6500.0,210.0,0
+Oppo A6X 5G (256 GB / 4 GB / Plum Purple),Oppo,ABC,0,299990.0,299990.0,256.0,4.0,6.7,13.0,5.0,6500.0,210.0,0
+Vivo V21 5G (128 GB / 8 GB / Sunset Dazzle),Vivo,Reuse,1,169990.0,161490.0,128.0,8.0,6.4,74.0,44.0,4000.0,176.0,0
+Xiaomi Redmi 10A (32 GB / 2 GB / Slate Gray) [38883],Xiaomi,Digitek,0,109990.0,109990.0,32.0,2.0,6.5,13.0,5.0,5000.0,194.0,0
+Huawei Pura 80 Pro (512 GB / 12 GB / Glazed Black),Huawei,Mercado Libre,0,833925.0,833925.0,512.0,12.0,6.8,138.0,13.0,5170.0,219.0,1
+Huawei Pura 80 Pro (512 GB / 12 GB / Glazed Black),Huawei,Huawei Shop,0,899990.0,899990.0,512.0,12.0,6.8,138.0,13.0,5170.0,219.0,1
+Huawei Nova 14 (512 GB / 12 GB / White),Huawei,Reuse,1,399990.0,379990.0,512.0,12.0,6.7,70.0,50.0,5500.0,192.0,1
+Huawei Nova 14 (512 GB / 12 GB / White),Huawei,Falabella,0,429990.0,409990.0,512.0,12.0,6.7,70.0,50.0,5500.0,192.0,1
+Huawei Nova 14 (512 GB / 12 GB / White),Huawei,Huawei Shop,0,429990.0,429990.0,512.0,12.0,6.7,70.0,50.0,5500.0,192.0,1
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,PC Factory,0,164990.0,159990.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,Hites,0,169990.0,164990.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,Ripley,0,169990.0,169990.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,Falabella,0,169990.0,169990.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,Mercado Libre,0,172386.0,162386.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,Lider,0,179990.0,179990.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,Tecnomas.cl,0,184990.0,179990.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,Paris,0,189990.0,179990.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,KDTEC,0,184106.0,180142.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,CTMAN,0,194521.0,183510.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,NotebookStore,0,195990.0,189326.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Honor Play 20A (128 GB / 4 GB / Midnight Black),Honor,Travel Tienda,0,199990.0,199990.0,128.0,4.0,6.9,13.0,5.0,6000.0,189.0,0
+Xiaomi Redmi A2 (32 GB / 2 GB / Light Blue) [46869],Xiaomi,CTMAN,0,175695.0,165750.0,32.0,2.0,6.5,8.1,5.0,5000.0,205.0,0
+Xiaomi Redmi A2 (32 GB / 2 GB / Light Blue) [46869],Xiaomi,Wei,0,186372.0,171462.0,32.0,2.0,6.5,8.1,5.0,5000.0,205.0,0
+Xiaomi Redmi A2 (32 GB / 2 GB / Light Blue) [46869],Xiaomi,Tecnomas.cl,0,176990.0,171990.0,32.0,2.0,6.5,8.1,5.0,5000.0,205.0,0
+Xiaomi Redmi A2 (32 GB / 2 GB / Light Blue) [46869],Xiaomi,KDTEC,0,177816.0,173988.0,32.0,2.0,6.5,8.1,5.0,5000.0,205.0,0
+Xiaomi Redmi A2 (32 GB / 2 GB / Light Blue) [46869],Xiaomi,Centrale,0,186450.0,176730.0,32.0,2.0,6.5,8.1,5.0,5000.0,205.0,0
+Xiaomi Redmi A2 (32 GB / 2 GB / Light Blue) [46869],Xiaomi,NotebookStore,0,184990.0,178700.0,32.0,2.0,6.5,8.1,5.0,5000.0,205.0,0
+Xiaomi Redmi A2 (32 GB / 2 GB / Light Blue) [46869],Xiaomi,Winpy,0,193280.0,183616.0,32.0,2.0,6.5,8.1,5.0,5000.0,205.0,0
+Xiaomi Redmi A5 (64 GB / 3 GB / Midnight Black),Xiaomi,Hites,0,89990.0,89990.0,64.0,3.0,6.9,32.0,8.0,5200.0,193.0,0
+Vivo Y11d (256 GB / 4 GB / Platinum),Vivo,Lider,0,189990.0,189990.0,256.0,4.0,6.7,50.0,5.0,6500.0,209.0,0
+Vivo Y11d (256 GB / 4 GB / Platinum),Vivo,ABC,0,219990.0,199990.0,256.0,4.0,6.7,50.0,5.0,6500.0,209.0,0
+Vivo Y11d (256 GB / 4 GB / Platinum),Vivo,Hites,0,209990.0,209990.0,256.0,4.0,6.7,50.0,5.0,6500.0,209.0,0
+Vivo Y11d (256 GB / 4 GB / Platinum),Vivo,Falabella,0,219990.0,209990.0,256.0,4.0,6.7,50.0,5.0,6500.0,209.0,0
+Vivo Y11d (256 GB / 4 GB / Platinum),Vivo,Paris,0,229990.0,219990.0,256.0,4.0,6.7,50.0,5.0,6500.0,209.0,0
+Vivo Y11d (256 GB / 4 GB / Platinum),Vivo,Ripley,0,229990.0,229990.0,256.0,4.0,6.7,50.0,5.0,6500.0,209.0,0
+Huawei Nova 15 Max (256 GB / 8 GB / Dorado),Huawei,Falabella,0,399990.0,379990.0,256.0,8.0,6.8,52.0,8.0,8497.0,232.0,1
+Huawei Nova 15 Max (256 GB / 8 GB / Dorado),Huawei,Ripley,0,389990.0,389990.0,256.0,8.0,6.8,52.0,8.0,8497.0,232.0,1
+Huawei Nova 15 Max (256 GB / 8 GB / Dorado),Huawei,Huawei Shop,0,399990.0,399990.0,256.0,8.0,6.8,52.0,8.0,8497.0,232.0,1
+Huawei Nova 15 Max (256 GB / 8 GB / Dorado),Huawei,Huawei Shop,0,459990.0,459990.0,256.0,8.0,6.8,52.0,8.0,8497.0,232.0,1
+Azumi AL35,Azumi,Hites,0,49990.0,49990.0,0.00390625,0.125,2.8,0.3,13.0,1400.0,110.0,0
+Honor X8b (256 GB / 8 GB / Cyan Lake),Honor,Hites,0,299990.0,299990.0,256.0,8.0,6.7,115.0,50.0,4500.0,166.0,0
+Vivo Y11 (128 GB / 4 GB / Midnight Blue),Vivo,Falabella,0,209990.0,199990.0,128.0,4.0,6.7,13.0,5.0,6500.0,209.0,0
+Huawei Nova Y74 (256 GB / 8 GB / Black),Huawei,Paris,0,249990.0,229990.0,256.0,8.0,6.7,50.0,8.0,6620.0,210.0,0
+Huawei Nova Y74 (256 GB / 8 GB / Black),Huawei,Mercado Libre,0,249990.0,249990.0,256.0,8.0,6.7,50.0,8.0,6620.0,210.0,0
+Huawei Nova Y74 (256 GB / 8 GB / Black),Huawei,Huawei Shop,0,249990.0,249990.0,256.0,8.0,6.7,50.0,8.0,6620.0,210.0,0
+Honor X6D 5G (256 GB / 4 GB / Midnight Black) [5109CDVA],Honor,ABC,0,169990.0,169990.0,256.0,4.0,6.8,50.0,5.0,5260.0,186.0,0
+Honor X6D 5G (256 GB / 4 GB / Midnight Black) [5109CDVA],Honor,Hites,0,189990.0,179990.0,256.0,4.0,6.8,50.0,5.0,5260.0,186.0,0
+Honor X6D 5G (256 GB / 4 GB / Midnight Black) [5109CDVA],Honor,Ripley,0,189990.0,189990.0,256.0,4.0,6.8,50.0,5.0,5260.0,186.0,0
+Honor X6D 5G (256 GB / 4 GB / Midnight Black) [5109CDVA],Honor,Paris,0,194990.0,189990.0,256.0,4.0,6.8,50.0,5.0,5260.0,186.0,0
+Honor X6D 5G (256 GB / 4 GB / Midnight Black) [5109CDVA],Honor,Tienda Entel,0,204990.0,199990.0,256.0,4.0,6.8,50.0,5.0,5260.0,186.0,0
+Honor X6D 5G (256 GB / 4 GB / Midnight Black) [5109CDVA],Honor,Tienda Movistar,0,209990.0,209990.0,256.0,4.0,6.8,50.0,5.0,5260.0,186.0,0
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,PC Factory,0,463890.0,449990.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,Mercado Libre,0,459515.0,459515.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,ABC,0,479990.0,459990.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,Lider,0,469990.0,469990.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,Ripley,0,479990.0,479990.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,Tienda Movistar,0,479990.0,479990.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,KDTEC,0,504246.0,493391.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,Hites,0,499990.0,499990.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,Paris,0,539990.0,499990.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,Travel Tienda,0,549990.0,499990.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,CTMAN,0,532756.0,502600.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,Tecnomas.cl,0,520990.0,507990.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,Wei,0,559239.0,514500.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,NotebookStore,0,534990.0,516800.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,Tienda Entel,0,729990.0,549990.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+Honor 600e (512 GB / 8 GB / Velvet Gray) [5109CJQN-B],Honor,ABC,0,889990.0,889990.0,512.0,8.0,6.6,113.0,16.0,6320.0,180.0,1
+ZTE Blade A56 Pro 4G (128 GB / 4 GB / Gris),ZTE,Falabella,0,139990.0,139990.0,128.0,4.0,6.6,13.0,2.0,5000.0,185.0,0
+Apple iPhone 11 Pro Max (256 GB / Midnight Green),Apple,Reuse,1,299990.0,284990.0,256.0,4.0,6.5,36.0,12.0,3500.0,226.0,1
+Apple iPhone 11 Pro Max (256 GB / Midnight Green),Apple,Digitek,1,369990.0,369990.0,256.0,4.0,6.5,36.0,12.0,3500.0,226.0,1
+Vivo Y39 (256 GB / 8 GB / Ocean Blue) [5669245],Vivo,ABC,0,219990.0,219990.0,256.0,8.0,6.7,52.0,8.0,6500.0,205.0,1
+Honor 200 Pro (512 GB / 12 GB / Ocean Cyan),Honor,Ripley,1,629990.0,629990.0,512.0,12.0,6.8,112.0,52.0,5200.0,199.0,1
+Infinix Note 30 5G (256 GB / 8 GB / Magic Black),Infinix,Vantek,0,279990.0,279990.0,256.0,8.0,6.8,110.0,16.0,5000.0,205.0,1
+Vivo Y28s (256 GB / 8 GB / Twinkling Purple),Vivo,Vantek,0,169990.0,169990.0,256.0,8.0,6.6,52.0,8.0,5000.0,185.0,0
+Tecno Camon 40 Pro 4G (256 GB / 8 GB / Glacier White),Tecno,Ripley,0,299990.0,299990.0,256.0,8.0,6.8,58.0,50.0,5200.0,178.0,1
+Apple iPhone 11 (64 GB / White),Apple,Reuse,1,199990.0,189990.0,64.0,4.0,6.1,24.0,12.0,3110.0,194.0,1
+Huawei Pura 70 Pro (512 GB / 12 GB / Black),Huawei,Reuse,1,537990.0,511090.0,512.0,12.0,6.8,110.0,13.0,5050.0,220.0,1
+Xiaomi Redmi 15C 4G (256 GB / 4 GB / Moonlight Blue),Xiaomi,PC Factory,0,154590.0,149990.0,256.0,4.0,6.9,50.0,8.0,6000.0,205.0,0
+Xiaomi Redmi 15C 4G (256 GB / 4 GB / Moonlight Blue),Xiaomi,Falabella,0,179990.0,179990.0,256.0,4.0,6.9,50.0,8.0,6000.0,205.0,0
+Xiaomi Redmi 10 (128 GB / 4 GB / Pebble White),Xiaomi,Digitek,0,149990.0,149990.0,128.0,4.0,6.5,62.0,8.0,5000.0,181.0,0
+Vivo Y21 (256 GB / 4 GB / Midnight Blue),Vivo,Falabella,0,269990.0,259990.0,256.0,4.0,6.7,50.0,5.0,6500.0,209.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,Lider,0,239990.0,239990.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,Mercado Libre,0,248992.0,248992.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,Hites,0,269990.0,269990.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,Ripley,0,279990.0,279990.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,ABC,0,289990.0,289990.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,Travel Tienda,0,319990.0,289990.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,Paris,0,309990.0,299990.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,Falabella,0,309990.0,299990.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,KDTEC,0,336165.0,328928.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,CTMAN,0,355174.0,335070.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,Tecnomas.cl,0,347990.0,338990.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,Wei,0,372823.0,342997.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,NotebookStore,0,356990.0,344852.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Honor X7e (256 GB / 6 GB / Orange) [5109CKSR],Honor,PC Factory,0,381490.0,369990.0,256.0,6.0,6.6,50.0,5.0,7500.0,200.0,0
+Oppo A80 (256 GB / 8 GB / Starry Black),Oppo,ABC,0,259990.0,259990.0,256.0,8.0,6.7,52.0,8.0,5100.0,186.0,1
+Honor Magic7 Pro (512 GB / 12 GB / Lunar shadow Grey),Honor,Tienda Movistar,0,999990.0,999990.0,512.0,12.0,6.8,300.0,50.0,5850.0,223.0,1
+Honor 200 Lite (256 GB / 8 GB / Black),Honor,Hites,0,349990.0,349990.0,256.0,8.0,6.7,115.0,50.0,4500.0,166.0,0
+Infinix Smart 20 (128 GB / 4 GB / Polaris Titanium),Infinix,Ripley,1,159990.0,159990.0,128.0,4.0,6.8,8.0,8.0,5200.0,189.5,1
+Vivo Y21d (256 GB / 6 GB / Black),Vivo,ABC,0,155500.0,155500.0,256.0,6.0,6.7,50.1,5.0,6500.0,209.0,0
+Vivo Y21d (256 GB / 6 GB / Black),Vivo,Hites,0,199990.0,199990.0,256.0,6.0,6.7,50.1,5.0,6500.0,209.0,0
+Vivo Y03 (128 GB / 4 GB / Space Black),Vivo,Hites,0,159990.0,159990.0,128.0,4.0,6.6,13.1,5.0,5000.0,185.0,0
+Vivo V50 Lite (256 GB / 8 GB / Fantasy Purple) [5669318],Vivo,Hites,0,299990.0,299990.0,256.0,8.0,6.8,58.0,32.0,6500.0,197.0,1
+Tecno Pova Curve 2 (256 GB / 8 GB / Storm Titanium),Tecno,Lider,0,299990.0,299990.0,256.0,8.0,6.8,52.0,13.0,8000.0,195.0,1
+Huawei P60 Pro (256 GB / 8 GB / Rococo Pearl),Huawei,Reuse,1,499990.0,474990.0,256.0,8.0,6.7,109.0,13.0,4815.0,200.0,1
+Xiaomi Redmi 12C (128 GB / 4 GB / Black),Xiaomi,NotebookStore,0,206990.0,199952.0,128.0,4.0,6.7,50.3,5.0,5000.0,192.0,0
+Xiaomi Redmi 12C (128 GB / 4 GB / Black),Xiaomi,Centrale,0,218420.0,207030.0,128.0,4.0,6.7,50.3,5.0,5000.0,192.0,0
+Samsung Galaxy S23+ (S916 / 512 GB / 8 GB / Green),Samsung,Reuse,1,469990.0,446490.0,512.0,8.0,6.6,72.0,12.0,4700.0,196.0,1
+ZTE Blade V70 Max (256 GB / 4 GB / Purple),ZTE,Falabella,0,159990.0,149990.0,256.0,4.0,6.9,52.0,8.0,5200.0,218.0,0
+Xiaomi Redmi 14C (128 GB / 4 GB / Midnight Black) [58558],Xiaomi,Tecnomas.cl,0,151990.0,147990.0,128.0,4.0,6.9,52.0,13.0,5160.0,204.0,1
+Vivo V50 (512 GB / 12 GB / Starry Blue),Vivo,Tienda Movistar,0,629990.0,629990.0,512.0,12.0,6.8,100.0,50.0,6000.0,199.0,1
+Oppo Reno12 F (256 GB / 8 GB / Olive Green),Oppo,ABC,0,349990.0,349990.0,256.0,8.0,6.7,60.0,32.0,5000.0,187.0,1
