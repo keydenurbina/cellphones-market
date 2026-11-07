@@ -19,7 +19,10 @@ OUT = DATA / "output"                                 # aquí queda data_raw.csv
 ahora = pd.Timestamp.now(tz="America/Santiago")       # hora de Chile (Colab corre en hora UTC)
 CACHE = DATA / "input" / f"html_{ahora:%Y%m%d}"       # HTML descargado hoy: si el proceso se corta, se retoma desde aquí
 for carpeta in (OUT, CACHE): carpeta.mkdir(parents=True, exist_ok=True)
-print("RAW →", OUT.resolve(), "\nHTML →", CACHE.resolve())
+marca = CACHE / "inicio.txt"                          # anota la hora en que empezó la descarga de hoy (solo la 1ª vez)
+if not marca.exists(): marca.write_text(ahora.isoformat())
+inicio = pd.Timestamp(marca.read_text())              # al re-ejecutar se usa la hora de la descarga original, no la de ahora
+print("RAW →", OUT.resolve(), "\nHTML →", CACHE.resolve(), "\nDescarga iniciada:", f"{inicio:%Y-%m-%d %H:%M}")
 
 BASE = "https://www.solotodo.cl"
 s = requests.Session()                                # reutiliza la conexión: más rápido que abrir una por página
@@ -100,8 +103,8 @@ for h in tqdm(enlaces):
         print("Error en", h, "→", e)
 
 raw = pd.DataFrame(filas)
-raw["fecha_extraccion"] = ahora.strftime("%Y-%m-%d %H:%M")                     # sello de tiempo en cada fila
-archivo = f"data_raw_{ahora:%Y%m%d_%H%M}.csv"                                  # ej: data_raw_20261107_1130.csv
+raw["fecha_extraccion"] = inicio.strftime("%Y-%m-%d %H:%M")                    # hora en que se descargaron los precios
+archivo = f"data_raw_{inicio:%Y%m%d_%H%M}.csv"                                 # ej: data_raw_20261107_1214.csv (re-ejecutar no crea otro)
 raw.to_csv(OUT / archivo, index=False)                                         # copia histórica: cada ejecución crea un archivo nuevo
 raw.to_csv(OUT / "data_raw.csv", index=False)                                  # versión vigente, con el nombre que pide el enunciado
 print(raw.shape, "| celulares:", raw.nombre.nunique(), "→", OUT / archivo)
