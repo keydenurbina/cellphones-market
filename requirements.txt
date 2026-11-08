@@ -1,0 +1,10 @@
+# Librerías usadas en los notebooks (instalar con: pip install -r requirements.txt)
+requests
+beautifulsoup4
+tqdm
+pandas
+numpy
+matplotlib>=3.9
+seaborn
+scikit-learn
+jupyter
